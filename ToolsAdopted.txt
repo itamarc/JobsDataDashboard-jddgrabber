@@ -1,0 +1,14 @@
+Here I will list the tools I'm using for each task in the project.
+This list will be update each time I change a tool.
+
+To develop:
+
+* For development in Python - version 3.9 with IDLE
+
+* For code versioning - GitHub
+  - plans to include CI/CD using GH Actions
+
+* Cloud services - AWS
+  - Serverless webservices
+  - DB
+  - Linux server with a cron job to grab data
