@@ -1,10 +1,10 @@
-- job_sites:
-  - Authorization-Key: YourAPIKey
-    User-Agent: your@email.address
-    host: data.usajobs.gov
-    method: GET
-    name: USAJOBS
-    url: https://data.usajobs.gov/api/search
-- job_queries:
-  - job_name: Software Engineer
-  - job_name: Backend Developer
+job_queries:
+- job_name: Software Engineer
+- job_name: Backend Developer
+job_sites:
+- Authorization-Key: YourAPIKey
+  User-Agent: your@email.address
+  host: data.usajobs.gov
+  method: GET
+  name: USAJOBS
+  url: https://data.usajobs.gov/api/search
