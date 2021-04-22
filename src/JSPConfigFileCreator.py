@@ -1,6 +1,6 @@
 import yaml
 
-config_file = r'D:\itamar\Documents\Pessoal\Estudos\JobSeekerProject\src\config-sample.yaml'
+config_file = r'config-sample.yaml'
 
 config = {'job_sites': [{'name': 'USAJOBS',
 			 'url': 'https://data.usajobs.gov/api/search',
