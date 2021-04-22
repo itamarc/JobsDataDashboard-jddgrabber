@@ -1,2 +1,6 @@
 
 *.odg#
+*.pyc
+config-test.yaml
+*.swp
+*~

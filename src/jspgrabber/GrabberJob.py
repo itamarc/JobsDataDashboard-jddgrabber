@@ -9,8 +9,10 @@ https://github.com/itamarc/JobSeekerProject/
 and save the data loaded in an "inbox" database for further processing.
 - After saving the data, this job will trigger the JobsAnalyzer.
 '''
+import JSPConfig as cnf
 
 # Load configuration
+config = cnf.load_config(r'config-sample.yaml')
     # Load job listings APIs
 # For each API
     # Grab data
