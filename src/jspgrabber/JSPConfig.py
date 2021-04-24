@@ -9,4 +9,6 @@ def load_config(config_file):
 
 if __name__ == '__main__':
     config_file = r'config-sample.yaml'
-    print(yaml.dump(load_config(config_file)))
+    config = load_config(config_file)
+    print(yaml.dump(config))
+    print(config)

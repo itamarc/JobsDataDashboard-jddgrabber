@@ -10,14 +10,16 @@ def create_config_file(config_file, config=None):
 
 
 def get_default_config():
-    return {'job_sites': [{'name': 'USAJOBS',
-                           'url': 'https://data.usajobs.gov/api/search',
-                           'host': 'data.usajobs.gov',
-                           'method': 'GET',
-                           'User-Agent': 'your@email.address',
-                           'Authorization-Key': 'YourAPIKey'}],
-            'job_queries': [{'job_name': 'Software Engineer'},
-                             {'job_name': 'Backend Developer'}]}
+    return {'job_queries': [{'job_name': 'Software Engineer'},
+                            {'job_name': 'Backend Developer'}],
+            'job_services': [{'class_name': 'jspgrabber.MuseDataGrabber',
+                            'Authorization-Key': 'YourAPIKey', 
+                            'User-Agent': 'your@email.address',
+                            'method': 'GET', 'name': 'The Muse', 
+                            'url': 'https://www.themuse.com/api/public/jobs',
+                            'params': [{'category': 'Software Engineer',
+                                        'level': 'Senior Level',
+                                        'location': 'United States'}]}]}
 
 
 if __name__ == '__main__':

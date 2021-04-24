@@ -4,3 +4,5 @@
 config-test.yaml
 *.swp
 *~
+src/jspgrabber/config.yaml
+*.odt#

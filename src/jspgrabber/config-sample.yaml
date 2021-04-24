@@ -1,10 +1,17 @@
 job_queries:
 - job_name: Software Engineer
 - job_name: Backend Developer
-job_sites:
-- Authorization-Key: YourAPIKey
+job_services:
+- class_name: jspgrabber.MuseDataGrabber
+  Authorization-Key: YourAPIKey
   User-Agent: your@email.address
-  host: data.usajobs.gov
   method: GET
-  name: USAJOBS
-  url: https://data.usajobs.gov/api/search
+  name: The Muse
+  url: https://www.themuse.com/api/public/jobs
+  params:
+    - category: Data Science
+      category: IT
+      category: Software Engineer
+      level: Mid Level
+      level: Senior Level
+      location: United States
