@@ -1,13 +1,13 @@
 class DataGrabber:
-    params = {}
-
-
     def __init__(self, params):
         self.params = params
 
 
-    def get_grabber(self, grabber_classname, params):
-        return type(grabber_classname, (DataGrabber), params)
+    @staticmethod
+    def get_grabber(grabber_classname, params):
+        import jspgrabber
+        cls = getattr(jspgrabber, grabber_classname)
+        return cls(params)
 
 
     def fetch_data(self):
