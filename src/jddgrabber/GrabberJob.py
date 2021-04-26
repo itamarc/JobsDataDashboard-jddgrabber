@@ -9,8 +9,8 @@ https://github.com/itamarc/JobSeekerProject/
 and save the data loaded in an "inbox" database for further processing.
 - After saving the data, this job will trigger the JobsAnalyzer.
 '''
-import jspgrabber.JSPConfig as cnf
-from jspgrabber.DataGrabber import DataGrabber
+import jddgrabber.JDDConfig as cnf
+from jddgrabber.DataGrabber import DataGrabber
 
 
 def runJob(config_file):

@@ -5,8 +5,8 @@ class DataGrabber:
 
     @staticmethod
     def get_grabber(grabber_classname, params):
-        import jspgrabber
-        cls = getattr(jspgrabber, grabber_classname)
+        import jddgrabber
+        cls = getattr(jddgrabber, grabber_classname)
         return cls(params)
 
 

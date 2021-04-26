@@ -1,6 +1,6 @@
 from recursive_diff import recursive_eq
-import jspgrabber.JSPConfigFileCreator as fc
-import jspgrabber.JSPConfig as conf
+import jddgrabber.JDDConfigFileCreator as fc
+import jddgrabber.JDDConfig as conf
 
 
 def test_create_load_config():

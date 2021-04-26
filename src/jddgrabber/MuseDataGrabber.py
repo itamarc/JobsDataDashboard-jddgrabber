@@ -1,4 +1,4 @@
-from jspgrabber.DataGrabber import DataGrabber
+from jddgrabber.DataGrabber import DataGrabber
 
 
 class MuseDataGrabber(DataGrabber):
