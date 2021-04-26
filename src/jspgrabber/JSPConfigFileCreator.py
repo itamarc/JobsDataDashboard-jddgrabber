@@ -13,6 +13,12 @@ def create_config_file(config_file, config=None):
         documents = yaml.dump(config, file)
 
 
+def remove_config_file(config_file):
+    config_dir = os.path.join(os.getcwd(), "conf")
+    if os.path.exists(os.path.join(config_dir, config_file)):
+        os.remove(os.path.join(config_dir, config_file))
+
+
 def get_default_config():
     return {'job_queries': [{'job_name': 'Software Engineer'},
                             {'job_name': 'Backend Developer'}],
