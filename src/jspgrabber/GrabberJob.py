@@ -12,10 +12,10 @@ and save the data loaded in an "inbox" database for further processing.
 import jspgrabber.JSPConfig as cnf
 from jspgrabber.DataGrabber import DataGrabber
 
+
 def runJob(config_file):
-    # Load configuration
+    # Load configuration and job listings APIs
     config = cnf.load_config(r'config.yaml')
-        # Load job listings APIs
     # For each API
     for service in config['job_services']:
         # Grab data
