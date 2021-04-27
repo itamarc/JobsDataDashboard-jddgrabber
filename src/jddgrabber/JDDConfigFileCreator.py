@@ -29,7 +29,9 @@ def get_default_config():
                               'url': 'https://www.themuse.com/api/public/jobs',
                               'params': [{'category': ['Software Engineer', 'Data Science', 'IT'],
                                           'level': ['Senior Level', 'Mid Level'],
-                                          'location': 'United States'}]}]}
+                                          'location': 'United States'}]}],
+            'mongodb': [{'connection': 'mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority'}]
+            }
 
 
 if __name__ == '__main__':

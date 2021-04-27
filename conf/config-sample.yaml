@@ -17,3 +17,5 @@ job_services:
     - Mid Level
     location: United States
   url: https://www.themuse.com/api/public/jobs
+mongodb:
+- connection: mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority
