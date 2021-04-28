@@ -1,4 +1,7 @@
 class DataGrabber:
+    """
+    Superclass to grabber classes and also implements the factory.
+    """
     def __init__(self, params):
         self.params = params
 
@@ -11,4 +14,7 @@ class DataGrabber:
 
 
     def fetch_data(self):
-        print("This method will fetch the data from the remote server.")
+        """
+        This method must be implemented in subclasses.
+        """
+        raise NotImplementedError

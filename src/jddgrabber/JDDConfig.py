@@ -12,5 +12,5 @@ def load_config(config_file):
 if __name__ == '__main__':
     config_file = r'config-sample.yaml'
     config = load_config(config_file)
-    print(yaml.dump(config))
-    print(config)
+    print("YAML config:\n", yaml.dump(config))
+    print("Loaded config:\n", config)

@@ -13,9 +13,16 @@ import jddgrabber.JDDConfig as cnf
 from jddgrabber.DataGrabber import DataGrabber
 
 
-def runJob(config_file):
+def runJob(config_file=r'config.yaml'):
+    """
+    Run the job, loading the config file received as parameter (default: config.yaml).
+    The config file must be in the "conf" directory under the working dir.
+    
+    This job will grab the data from the configured online job services,
+    save it to the database and then run the JDDAnalyzer to consolidate the data.
+    """
     # Load configuration and job listings APIs
-    config = cnf.load_config(r'config.yaml')
+    config = cnf.load_config(config_file)
     # For each API
     for service in config['job_services']:
         # Grab data
