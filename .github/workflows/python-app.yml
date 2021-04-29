@@ -6,8 +6,16 @@ name: Python application
 on:
   push:
     branches: [ main ]
+    paths-ignore:
+      - 'doc/**'
+      - '.vscode/**'
+      - 'README.md'
   pull_request:
     branches: [ main ]
+    paths-ignore:
+      - 'doc/**'
+      - '.vscode/**'
+      - 'README.md'
 
 jobs:
   build:
