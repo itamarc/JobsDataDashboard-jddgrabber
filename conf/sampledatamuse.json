@@ -1,0 +1,853 @@
+[
+    {
+    "contents": "<p><b>Search Jobs</b><br><br><b>Job Description</b><br><br>VMware is a global leader in cloud infrastructure and business mobility. VMware accelerates customers' digital transformation journey by enabling enterprises to master a software-defined approach to business and IT. With VMware solutions, organizations are building extraordinary experiences by mobilizing everything. Our customers are responding faster to opportunities with modern data and apps hosted across hybrid clouds, and safeguarding customer trust with a defense-in-depth approach to cybersecurity.At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Do you dare to do the stuff you've always dreamed about? Dare to explore athttp://careers.vmware.com.<br><br><b>VeloCloud and You</b><br>We are looking for engineers to join our VeloCloud SD-WAN team. VeloCloud is the only complete solution with all the key elements of a Cloud-Delivered WAN. VeloCloud dramatically simplifies the WAN by delivering virtualized services from the cloud to branch offices and mobile users everywhere. VeloCloud services deliver enterprise grade performance, visibility and control over both Internet and private networks, combining the economy of the Internet with the flexibility of the cloud. More info is available athttps://www.vmware.com/solutions/sd-wan.html.You will participate in creative projects, with the authority and scope to apply your expertise in a dynamic and technically driven environment. You'll be part of a bright engineering team that values open communication, empowerment, innovation, teamwork and customer success. Our engineering team members share a strong focused work ethic and a make-it-happen mindset.<br><br><b>Role Description</b><br>The VeloCloud Management Plane team builds theOchestratorthat our customers use to configure and monitor their SD-WAN appliance fleet. In addition to a comprehensive GUI, customers can interact with the platform via REST APIs. We are responsible for reporting, dashboarding, and analytics around the large volumes of network and application data that we capture. We also integrate with other platforms and tools to provide a rich ecosystem of services around identity, authentication, alerting, and other such operational concerns.<br><br><b>Responsibilities</b><br>Understanding the key requirements of the Management feature of theVelocloudproduct, architecting a solution and delivering a working prototype and the final product.<br>Building anext-generationuserinterfacefor administrators managing large fleets of network appliances.<br>Ensuring our web application stays up to date on the latest technologies, promotingexcellentcode quality, proposingcode improvements, providing estimates and defining technical specifications.<br>Drive development from technology selection to product delivery, collaborating with product managers and product designers all along the wayto give our users the best possible experience.<br><br><b>RequiredQualifications</b><br>Experience building highly available, scalable cloud applications, including server and database layers.<br>Knowledge of the latest technologies used in building system software and applications in the cloud. Intimate familiarity withmodernJavascriptand UI frameworks, particularly Angular, as well asnode.js, MySQL, RESTful APIs is highly desired.<br>Experience with the full lifecycle of UI development from requirements and UX design all the way to release.<br>Strong grounding in UI security, performance, and testability.<br>Experience developing data storage and data access strategies for high volume online transactional systems as well as for offline data analytics<br><br><b>Preferred Qualifications</b><br>A good grasp of interaction design principles.<br>Experience with UIs for enterprise infrastructure products such as compute, storage, and networking products.<br>Strong sense of enterprise product usability and a desire to serve as a champion for the product's users.<br>Experience developing UIs for visualization of large data sets.Excellent presentation and communication skills combined with the ability to work in a team environment.<br><br>VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.<br><br><b>VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: </b>VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law. <br><br><b>Search Jobs</b></p>",
+    "name": "Senior Software Engineer, Full Stack - Velocloud",
+    "type": "external",
+    "publication_date": "2021-02-18T11:46:03Z",
+    "short_name": "senior-software-engineer-full-stack-velocloud-c2e116",
+    "model_type": "jobs",
+    "id": 5267696,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        },
+        {
+        "name": "Los Angeles, CA"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/vmwarecarbonblack/senior-software-engineer-full-stack-velocloud-c2e116"
+    },
+    "company": {
+        "id": 11784,
+        "short_name": "vmwarecarbonblack",
+        "name": "VMware Carbon Black"
+    }
+    },
+    {
+    "contents": "<div><span>THE JOURNEY TO YOUR DREAM JOB COULD BE JUST A CLICK AWAY…</span></div>\n\n<div><span> </span></div>\n\n<div><span>In 2012, Tuft &amp; Needle (</span><a href=\"http://tn.com/\">tn.com</a><span>) revolutionized the mattress space by turning the focus to the customer with always-honest pricing, an insistence on high-quality products, and world-class customer experience. We started our journey with two software engineers and a dream and today we have grown to a team of more than 175 talented people, working each day to bring the world premium sleep products at an honest cost.</span></div>\n\n<div><br></div>\n\n<div>Together, we are radically reshaping how we think about sleep, mattresses, and shopping - and we’re just getting started.   Want to join us? </div>\n\n<div><br></div>\n\n<div>We’re looking for a Sr. Rails Developer to join our growing engineering team in Phoenix and around the US. You'll get to work on <a href=\"http://tuftandneedle.com/\">tuftandneedle.com</a>/<a href=\"https://tn.com\">tn.com</a>, <a href=\"http://serta.com\">serta.com</a>, and <a href=\"http://beautyrest.com\">beautyrest.com</a>, the various payment processor integrations we use, our promotions engine and admin tool, as well the the custom POS system used in our retail stores. You’ll have a seat at the table with the rest of the engineering team on strategic decisions, and help our team envision the future of sleep.</div>\n\n<div><br></div>\n\n<div><u>HOW WE WORK:</u></div>\n\n<div>We live by our company values:</div>\n\n<div><br></div>\n\n<div>We <b>Listen</b> To Our Customers and To Each Other</div>\n\n<div><br></div>\n\n<div>We <b>Sprint</b> With Focus</div>\n\n<div><br></div>\n\n<div>We <b>Shape</b> Our Future</div>\n\n<div><br></div>\n\n<div>We <b>Win</b> As A Team</div>\n\n<div><br></div>\n\n<div>We <b>Sleep</b> Well Doing Business Our Way</div>\n\n<div><br></div>\n\n<div>For the engineering team, this means: </div>\n\n<div>End-to-end ownership: From inception to production, you have investment in the solution being built.</div>\n\n<div>Launch early and iterate: Done is better than perfect. Although we maintain a minimum standard of quality, we believe in getting value out of features and enhancements as soon as possible, while rapidly iterating with A/B testing built into our process.</div>\n\n<div>Do things that scale:  We’re bringing our homegrown brand of market disruption to the biggest mattress brands in the country (Serta, Simmons, Beautyrest). We’re automating manual processes and scaling up our efforts.</div>\n\n<div>Pragmatism: We’ve moved beyond the startup phase and our business is growing fast, so our team needs to be practical, smart, and flexible. What worked yesterday might not be the solution today.</div>\n\n<div><br></div>\n\n<div><u>OUR TECHNICAL ENVIRONMENT</u></div>\n\n<div>Our stack consists primarily of Ruby on Rails, React, and Postgres. We use Buildkite for continuous integration and continuously deploy to Heroku and Vercel. We have our own platform team that focuses on making your job as easy as possible! We believe in leveraging quality APIs and tools.</div>\n\n<p><strong>QUALIFICATIONS:</strong><ul><li>5+ years of experience working in a tech environment similar to what's described above</li><li>Proficiency with Ruby on Rails</li><li>Experience with GraphQL</li><li>Experience with React</li><li>Experience with building eCommerce applications</li><li>Expertise working with Content Management Systems (we use Prismic)</li><li>Passion for Test Driven Development. We use RSpec, Cucumber, Jest, and Cypress</li><div><br></div><div><u>PREFERRED ATTRIBUTES:</u></div><li>Empathy</li><li>Pragmatism</li><li>Curiosity</li><li>A love for learning</li></ul></p>\n<div><br></div>\n\n<div><br></div>\n\n<div><span>YOU'LL SLEEP WELL WHEN YOU WORK WITH US</span></div>\n\n<div><br></div>\n\n<div><u>Our people</u> You'll work with some of the most talented, supportive, and savvy individuals out there. We're very proud to work with each other. We're shaking up the mattress industry and delivering an experience for clients they would never expect. And we’re proud of that too!</div>\n\n<div><br></div>\n\n<div><u>Our product</u> Each team member receives a great bundle of products for themselves. You will too if you join the team! Your friends and family will also have access to a great product discount.</div>\n\n<div><br></div>\n\n<div><u>Our benefits</u> We offer comprehensive health benefits for you, eligible partners and dependents. We have paid maternity &amp; paternity leave, 401k with a match, a generous vacation plan, and so much more.</div>\n\n<div><br></div>\n\n<div><i>Tuft &amp; Needle is proud to be an equal opportunity employer. We will not discriminate against any applicant or employee on the basis of age, race, color, creed, religion, sex, sexual orientation, gender, gender identity or expression, medical condition, national origin, ancestry, citizenship, marital status or civil partnership/union status, physical or mental disability, pregnancy, childbirth, genetic information, military and veteran status, or any other basis prohibited by applicable federal, state or local law. Your experience is important to us. If you have any questions with your application, please contact our Candidate Experience Team at <a href=\"mailto:talent@tuftandneedle.com\">talent@tuftandneedle.com</a></i></div>",
+    "name": "Sr. Software Engineer, Rails",
+    "type": "external",
+    "publication_date": "2021-04-09T23:05:03Z",
+    "short_name": "sr-software-engineer-rails",
+    "model_type": "jobs",
+    "id": 5583347,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/tuftneedle/sr-software-engineer-rails"
+    },
+    "company": {
+        "id": 11792,
+        "short_name": "tuftneedle",
+        "name": "Tuft & Needle"
+    }
+    },
+    {
+    "contents": "<p><b>Search Jobs</b><br><br><b>Job Description</b><br><b><b>About Us</b></b><br><br><b>Ready to build? So are we. Come join VMware's new exciting Modern Applications Business Unit (MAPBU) team, made up of products and services under the Tanzu portfolio to help customers build, run and manage their most important applications. To learn more about Tanzu watch this video. #TeamTanzu</b><br><b><b>About You</b></b><br><br><b>You have a passion for high-quality, reliable and maintainable code. You're comfortable working side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users. You're agile and retrospective, and not afraid to identify what we're doing wrong so we can fix it, and what we're doing right so we can improve on it. Above all, you judge your success by the success of your team and the happiness of our customers.</b><br><b><b>What You'll Be Doing</b></b><br><br><b>You will be working on the VMware Pivotal Labs Services team, helping customer product teams to design and deliver modern, mission-critical, cloud-native applications serving a variety of missions and user needs.</b><br><br><b>As a software engineer, you will pair daily with client software engineers, coaching them in Extreme Programming (XP) methodologies and approaches while helping them to define, validate, communicate, and execute product vision and strategy. You will work with a team of product managers, designers, and engineers to enable your client team to go fast forever.</b><br><br><b>All of our product team positions are highly collaborative consulting roles, with 85-90% of time spent in direct, 1:1 pairing or larger team collaboration. During the COVID-19 crisis, this collaboration is all managed remotely, with the expectation that face-to-face engagement in a VMware Pivotal Labs office will pick up again once the crisis is resolved. Additionally, once the crisis is resolved, you may be asked to travel up to 50% of the time.</b><br><b><b>You Will Be Responsible For</b></b><br><ul><li><b>Working with your client engineers to enable them in XP software development practices and/or application modernization practices</b><br></li><li><b>Pair programming with clients and other VMware Pivotal Labs engineers to build/modernize software based on the team's backlog</b><br></li><li><b>Working with your team to provide technical input on product, design, and architectural decisions (such as technical complexity and feasibility)</b><br></li><li><b>Help the team manage risk and uncertainty while moving the team forward</b><br></li><li><b>Teaching your client pairs how to do the above for themselves</b><br></li><li><b>Help enable client leadership to grow their own engineering practice</b><br></li><li><b>Contributing back to VMware Pivotal Labs' engineering practice through mentorship, giving talks, and experience reports</b><br></li></ul><b></b><br><b><b>Required Skills and Experience</b></b><br><ul><li><b>Experience in training, mentoring and/or upskilling others</b><br></li><li><b>Strong communication skills and interest in a pair-programming environment</b><br></li><li><b>Experience in Test Driven Development (TDD) and agile methodologies, including refactoring</b><br></li><li><b>5+ years of full-stack Software Development experience in a variety of programming languages</b><br></li><li><b>Strong experience with full-stack development</b><br></li><li><b>Passion for growing your skills, tackling interesting work and challenging problems</b><br></li><li><b>BA/BS in Computer Science or related field, or equivalent experience</b><br></li><li><b>Experience developing cloud-based enterprise software</b><br></li><li><b>Experience leading a product or development team</b><br></li><li><b>Ability to incrementally define and improve system architecture as a product evolves</b><br></li><li><b>Experience modernizing legacy applications/systems in languages such as Java or C#/.NET</b><br></li><li><b>Up to 50% travel is expected in this role once travel opens up again</b><br></li><li><b>Ability to Work From Home until sufficient resolution of the COVID-19 Crisis</b><br></li></ul><b><b>Desired Skills and Experience</b></b><br><br><b>Below is a list of skills we value. This is not a checklist. If you have some of these skills, and want to grow into others, then we want to hear from you.</b><br><ul><li><b>Experience building and deploying in a continuous delivery environment</b><br></li><li><b>Experience working directly with clients</b><br></li><li><b>Experience with domain driven design and architecting systems that are easy to change</b><br></li><li><b>Experience in release management</b><br></li><li><b>Experience supporting production systems using Site Reliability Engineering (SRE) practices</b><br></li><li><b>Experience with Kubernetes or related automation / orchestration tools</b><br></li></ul><b><b>Education</b></b><br><br><b>BA/BS in Computer Science or related field, or equivalent experience</b><br><b><b>What's it like to work at VMware</b></b><br><br><b>We believe that teams should spend more of their time delivering incremental value and less on building infrastructure. We're building platforms, tools, and automation, including Tanzu Application Service, Tanzu Kubernetes Grid, and Tanzu Mission Control, to enable our customers to easily and confidently develop and run the software that powers their business. Hundreds of companies rely on our platform to meet the needs of millions of their customers. Our engineers embrace Extreme Programming (XP) as a way to go fast forever and deliver remarkable results. Our product managers and product designers work side-by-side with our engineers in small, empowered teams, using Lean and User Centered Design (UCD) as guides. We measure success by making our customers more productive, as software developers, product managers, and product designers. We enable our customers to build high quality products and highly efficient software development teams.</b><br><b></b><br><b><b>Our Principles</b></b><br><ul><li><b><b>Empower Teams</b> - Diverse teams with shared context, psychological safety, and decision-making authority move faster.</b><br></li><li><b><b>Start Simple</b> - Learn just enough to begin and let the work inform the direction.</b><br></li><li><b><b>Embrace Change</b> - Expect change and turn it into opportunity.</b><br></li><li><b><b>Deliver Early and Often</b> - Ship value to users and measure impact to lower risk.</b><br></li><li><b><b>Improve Continuously</b> - We are always learning and humbled by what we don't know.</b><br></li><li><b><b>Contribute to Open Source Communities</b> - Share our time, tools, and methodologies to maximize our impact.</b><br></li></ul><br><b>VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: </b>VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law. <br><br><b>Search Jobs</b></p>",
+    "name": "Senior Software Engineer",
+    "type": "external",
+    "publication_date": "2021-02-17T23:36:45Z",
+    "short_name": "senior-software-engineer-74c58d",
+    "model_type": "jobs",
+    "id": 5223069,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        },
+        {
+        "name": "Paris, France"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/vmwarecarbonblack/senior-software-engineer-74c58d"
+    },
+    "company": {
+        "id": 11784,
+        "short_name": "vmwarecarbonblack",
+        "name": "VMware Carbon Black"
+    }
+    },
+    {
+    "contents": "<p> </p>\n\n<p><span>Cisco Meraki is revolutionizing the way IT administrators manage their infrastructure by providing simple and secure cloud-managed solutions. With a large install base of customers and rich, multi-dimensional data sets, the potential for data analytics to improve business performance for both our customers and our own business is enormous.</span></p>\n\n<p><span>We are looking for a full-stack Data Scientist to join our Strategy &amp; Data Science department. The Strategy &amp; Data Science department is a growing group that works closely with executives and leaders across the company to support the development of and alignment on our business strategy.  As part of this group, you will develop cross-functional relationships and use rigorous data science methods on our business and product data to drive near- and longer-term impact. This would be an outstanding fit for someone who has a passion for both math and technology, ability to provide deep insights for priority Meraki leadership asks and joint Cisco/Meraki product and customer analysis.</span></p>\n\n<p><strong>What will you do:</strong></p>\n\n<ul>\n<li><span>Lead key, cross-functional analytical projects, identifying and bringing together stakeholders, building project plans, developing joint analytical approaches, and executing against the project</span></li>\n<li><span>Build predictive models to influence business decisions</span></li>\n<li><span>Use data to identify opportunities to improve customer support needs</span></li>\n<li><span>Define key metrics to help track our business performance and customer experience</span></li>\n<li><span>Analyze user journey data and understand root causes of customer engagement with products and dashboard</span></li>\n<li><span>Enable task automation using machine intelligence</span></li>\n<li><span>Analyze trends in data to identify growth opportunities for our business</span></li>\n</ul>\n\n<p><strong>What skills you possess:</strong></p>\n\n<ul>\n<li><span>Strong SQL skills</span></li>\n<li><span>Strong coding skills in Python/R, Hadoop/Spark technologies</span></li>\n<li><span>2-3+ years of prior knowledge in building data science pipelines</span></li>\n<li><span>Good understanding of machine learning based model building flows</span></li>\n<li><span>Hands-on experience using machine learning frameworks</span></li>\n<li><span>BS/MS degree, such as economics, mathematics, statistics or engineering</span></li>\n<li><span>3-5+ years of experience in an analytical role or equivalent combination of graduate degree and work experience in data science</span></li>\n<li><span>Exceptional critical thinking and problem-solving ability</span></li>\n<li><span>Good written and verbal communication skills</span></li>\n<li><span>Strong attention to detail and accuracy</span></li>\n<li><span>Self-starter and ability to work autonomously</span></li>\n</ul>\n\n<p><strong> Who you are:</strong></p>\n\n<ul>\n<li><span>You demonstrate business acumen in your work</span></li>\n<li><span>You have a real passion for analytics and desire for continuous learning</span></li>\n<li><span>You have strong organizational skills; able to keep track of multiple competing priorities without losing details</span></li>\n<li><span>Ability to communicate the results of analysis</span></li>\n<li><span>You are eager to take ownership of projects</span></li>\n<li><span>You remain curious and hungry to understand all components of your work</span></li>\n</ul>\n\n<p><span>Are you wondering what it is like to work at Cisco Meraki? Picture a breathtaking office, healthy catered meals, fully stocked kitchens, onsite gym and paid time off to volunteer. Meraki Cisco has crafted an amazing equal opportunity focused office where employees thrive. With that said, we are confident you will love it here. Check out more of our benefits on our job page, at </span><a href=\"https://meraki.cisco.com/jobs\"><span>https://meraki.cisco.com/jobs</span></a><span>, and we look forward to talking with you soon.</span></p>\n\n<p>Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis.</p>\n\n<p>At Cisco Meraki, we’re challenging the status quo with the power of diversity, inclusion, and collaboration. When we connect different perspectives, we can imagine new possibilities, inspire innovation, and release the full potential of our people. We’re building an employee experience that includes appreciation, belonging, growth, and purpose for everyone.</p>\n\n<p> </p>",
+    "name": "Data Scientist",
+    "type": "external",
+    "publication_date": "2021-02-17T23:13:48.116406Z",
+    "short_name": "data-scientist-b910c1",
+    "model_type": "jobs",
+    "id": 4813922,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Data Science"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/ciscomeraki/data-scientist-b910c1"
+    },
+    "company": {
+        "id": 11799,
+        "short_name": "ciscomeraki",
+        "name": "Cisco Meraki"
+    }
+    },
+    {
+    "contents": "<p><b>Description</b><br><br>The Senior Software Engineer at Author will have the chance to influence the decisions of a young organization. Software Engineers within the Author team are trusted to own major parts of the codebase, and we expect you to thrive as a leader in spearheading and shaping the technology direction, with support from your peers.<br><br>Software Engineers at Author will help develop cloud native solutions, leveraging Google Cloud Platform Services, and are able to code in languages and frameworks that fit into that ecosystem -.Net Core (C#), Java, Node.js, and GoLang. In addition, our automation infrastructure allows you to quickly test and deploy your code.<br><br><b>Responsibilities</b><br><br>We believe that both a high-quality team and high-quality code are critical pieces of our mission. You'll be responsible for building the backbone interoperability platform that powers our engaging customer experience assets. The Author interoperability platform is envisioned to be a modern high-fidelity information superhighway that integrates with a multitude of data sources and presents data in the right grain, at the right time. You'll design data models, build APIs, and orchestrate data flows across the Author platform. You'll help us build an enterprise scale microservices architecture that will help scale all of our capabilities to those that we serve.<br><br>Working closely with our product and architecture team, you will focus on improving the Author platform with both large new features and iterate through smaller enhancements that integrate across a variety of channels - web, mobile, and voice. Lastly, you will work with the analytics team to build a feedback loop to constantly improve on what we've already built.<br><br>Duties:<br><ul><li>Responsible for designing software applications utilizing Micro services and API architecture</li><li>Develop, test and support services that allow integration between various different software applications</li><li>Design, build, test and support website and mobile applications for Humana Edge</li><li>Deliver all applications with Cloud first mindset, following Agile methodology</li><li>Implement Developer Efficiency Index like Unit Test Coverage, automated packaging and deployment standards</li><li>Adhere to all IT Risk and compliance standards, ensuring all software applications are built with highest standards and free to any known vulnerabilities</li><li>Mentor junior software engineers on latest technology stack implemented by Humana Edge</li></ul><br><br><b>Required Qualifications:</b><br><ul><li>5+ years of Software Development experience in at least one of the following languages: C# (.Net Core), Java, Node, and GoLang</li><li>3+ years of hands-on experience building production-grade APIs or micro-services with integrations spanning multitude of back-ends.</li><li>1+ year of experience building cloud native solutions, preferably Google cloud technologies with DataFlow Cloud Functions, and/or Pub/Sub</li><li>Hands-on experience building production-grade microservices architecture with good knowledge of data engineering methodologies</li><li>Analytical mind with problem-solving aptitude</li><li>Strong communication skills with ability to interact with business and customer representatives</li><li>Passion for growing your skills, tackling interesting work and challenging problems</li><li>BA/BS in Computer Science or any relevant field</li><li>Experience working within a DevOps style environment using agile delivery practices and methodologies.</li></ul><br><br><b>Role Essentials:</b><br><ul><li>Have experience with TDD and writing solid test cases</li><li>Experience working in large, high-quality codebases</li><li>Shipping pragmatic, sustainable code bases with speed</li><li>Good understanding of public cloud computing architectures and services. Experienced in the use of cloud native technologies, cloud cybersecurity, and implementation patterns to lower costs, improve speed to market, increase efficiency, and enable innovation.</li><li>Experience leveraging modern technologies to increase velocity and decrease cost of solution delivery; including cloud technologies, microservices architecture, and streaming analytics.</li><li>Building collaborative relationships with team members, fostering a productive team environment, and coaching staff with timely meaningful feedback</li></ul><br><br><b>Role Desirables:</b><br><ul><li>Cloud certification on any major cloud provider</li><li>Experienced in designing, building, and testing complex scalable systems</li><li>Have experience deploying code in containers and using tools such as Docker and/or Kubernetes in Production</li><li>Have built or maintained a large-scale microservice infrastructure application or system</li><li>Experience supporting live production infrastructure, can put out fires under pressure when things go wrong</li><li>An appetite for data: analyzing metrics and designing A/B tests to help drive the company's decisions</li></ul><br><br><b>Scheduled Weekly Hours</b><br><br>40</p>",
+    "name": "Senior Software Engineer (Cloud)",
+    "type": "external",
+    "publication_date": "2021-04-06T11:41:47Z",
+    "short_name": "senior-software-engineer-cloud-f69655",
+    "model_type": "jobs",
+    "id": 5560080,
+    "locations": [
+        {
+        "name": "Boston, MA"
+        },
+        {
+        "name": "Flexible / Remote"
+        },
+        {
+        "name": "Louisville, KY"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/humana/senior-software-engineer-cloud-f69655"
+    },
+    "company": {
+        "id": 12023,
+        "short_name": "humana",
+        "name": "Humana"
+    }
+    },
+    {
+    "contents": "<div>\n\n    <p><span>As the leading AI-powered cloud communications platform, Dialpad is on a mission to prove that employees don’t need to be in the office, stuck at a desk, or wearing pants to be 110% effective at their job. Our patented Voice Intelligence is embedded in every call to capture action items, provide coaching, take notes, analyze sentiment, and more in real time—setting us apart from the competition.</span></p>\n<p><span>Essentially, our products make it easy to have productive business communication over calls, video conferencing, and chat from anywhere and on any device. With 90% of businesses still using desk phones for their contact centers, sales teams, and internal communication, we have a massive opportunity to grow and shape the future of work.</span></p>\n<p><strong>Who we are</strong></p>\n<p><span>At Dialpad, work isn’t a place you go, it's a thing you do. We don’t just build products for everywhere workers, we </span><em><span>are</span></em><span> everywhere workers. With offices in the Bay Area, Austin, Raleigh, Vancouver, Waterloo, Tokyo, London, Sydney, and Bangalore, along with remote workers around the world, we are committed to building a diverse workforce, where each person is welcomed and valued for their personhood and contribution.</span></p>\n<p><span>With a $1.2 billion valuation and over $250 million in funding from Google Ventures, Andreessen Horowitz, OMERS Growth Equity, ICONIQ Capital, Felicis Ventures, Work-Bench, Scale Ventures, and other top VCs, Dialpad attracts top talent from leading tech companies, and every member of our team plays an essential role in creating dynamic products that enable workers to collaborate and be productive from anywhere.</span></p>\n<p><strong>The team</strong></p>\n<p><span>Every engineer on our global engineering team is given the opportunity to take ownership of a large portion of the product where they’re able to see immediate results. Combining natural language processing and artificial intelligence with world-class cloud computing, the things you’ll create at Dialpad will shape the future of work—enabling companies to work from anywhere and making business communication more human.</span></p>\n<p><span>The billing engineering team builds scalable APIs and tooling to manage the full billing lifecycle for our customers. Engineers have a huge impact and work on features tied directly to the revenue that Dialpad brings in. This is a full stack engineering team that builds backend billing features to bring in revenue, customer facing frontends that allow admins to manage their licenses, and automated tooling for our finance and support teams. It’s all about thinking big and scaling to the rapid growth we have with more users, calls, and resellers.</span></p>\n<p><strong>What you will achieve</strong></p>\n<p><span>In your first two months:</span></p>\n<ul>\n<li><span>Meet your manager and onboarding buddy who will support you in getting started</span></li>\n<li><span>Set up your development environment</span></li>\n<li><span>Get to know a highly communicative and collaborative engineering team </span></li>\n<li><span>Complete the engineering onboarding program (including training videos and documentation)</span></li>\n<li><span>Work on starter projects to get comfortable working with the Dialpad codebase. Starter projects are done across all teams, and will help ramp you up on all aspects including: frontend, backend, and architecture.</span></li>\n</ul>\n<p><span>In your first six months:</span></p>\n<ul>\n<li><span>You’ll join the close-knit billing engineering team and begin working on impactful and educational billing starter projects. For example: tooling that resellers can use to upgrade an account.</span></li>\n<li><span>Projects are full stack, but lean more towards backend than frontend.</span></li>\n<li><span>You’ll receive mentorship and code reviews from your peers on billing, including our experienced team lead who has been with Dialpad since the beginning. Your billing engineering peers love to work together, talk through projects, and help each other overcome roadblocks.</span></li>\n</ul>\n<p><span>After six months:</span></p>\n<ul>\n<li><span>You’ll have a deeper understanding of billing concepts and the billing codebase so you can work on more complex projects.</span></li>\n<li><span>You’ll work on projects that contribute to the billing team’s longer term quarterly goals.</span></li>\n</ul>\n<p><span>One year and beyond:</span></p>\n<ul>\n<li><span>You’ll contribute to the architecture of the billing platform to help it scale and support rapid growth in the Dialpad customer base.</span></li>\n<ul>\n<li><span>Build reusable, well defined APIs that are consumed in product code.</span></li>\n<li><span>Monitor for performance and accuracy of how we bill our customers.</span></li>\n<li><span>Build automated tools to enable our customers and support teams to perform self-service billing operations.</span></li>\n</ul>\n<li><span>You’ll learn how to do code reviews so you can share your knowledge with peers in the future.</span></li>\n<li><span>Mentor new hires to help the team grow.</span></li>\n</ul>\n<p><strong>Who you are</strong></p>\n<p><span>You enrich the team through your engineering experience. We don’t mind if you come from a frontend, backend, or any other engineering background, as long as you are excited to learn and contribute to the team. You’re the type of person who is really proud when you build a well designed, long term solution that saves everyone time in the long run.</span></p>\n<p><strong>Our tech stack</strong></p>\n<p><span>Backend</span></p>\n<ul>\n<li><span>Google Cloud Platform</span></li>\n<ul>\n<li><span>AppEngine</span></li>\n<li><span>Datastore</span></li>\n<li><span>BigQuery</span></li>\n</ul>\n<li><span>Elastic Search</span></li>\n<li><span>Python</span></li>\n</ul>\n<p><span>Frontend</span></p>\n<ul>\n<li><span>VueJS (single page application)</span></li>\n<li><span>Electron</span></li>\n</ul>\n<p><strong>Benefits</strong></p>\n<p><strong>Culture</strong></p>\n<p><span>We’ve been named a Top Workplace seven times because we truly live and breathe our culture. In alignment with one of our core values, “Skill &amp; Will,” we strive to bring on only the most passionate and talented people to our team. Collectively, Dialers work together to solve problems that help the everyday worker. We foster a collaborative environment where people are elevated, wins are celebrated, and development is encouraged. </span></p>\n<p><strong>Compensation and Equity</strong></p>\n<p><span>Teamwork makes the dream work. Recognizing that our talented and committed team members drive our success, Dialpad offers competitive salaries in addition to stock options because each Dialer participates in our success.</span></p>\n<p><strong>Healthcare and Wellness</strong></p>\n<p><span>An apple a day keeps the doctor away—and it doesn’t hurt that we offer great options for  medical, dental, and vision plans for all employees. In addition, we offer resources for you through our Employee Assistance Program. We even offer a monthly stipend to help cover your gym membership costs and offer a variety of wellness events to attend. Who wants to join a fitness class, a zen session, or a cooking class? That and more are available to all Dialpad employees!</span></p>\n<p><strong>Equity, Balance, and Belonging</strong></p>\n<p><span>At Dialpad, we value the humanity that makes each of us unique. We strive to ensure everyone is supported equitably, and Dialers are free to bring their full selves to work each day, and celebrate others doing the same. We champion the intersectionality that exists between gender identity, ethnicity, age, disability status, and the many other aspects of our greater humanity.</span></p>\n<p><strong>Flexible Work Accommodations  </strong></p>\n<p><span>These days, it’s business as unusual. That’s why we offer a monthly stipend to help cover your cell phone and home internet. We also cover costs for home office equipment and encourage employees to take advantage of our generous time off and vacation policy. </span></p>\n<p><strong>Education</strong></p>\n<p><span>We believe in your future as much as you do! That's why we offer a yearly stipend for continued learning and education expenses.</span></p>\n<p><strong><em>Dialpad is an equal opportunity employer. We are dedicated to creating a community of inclusion and an environment free from discrimination or harassment.</em></strong></p>\n\n\n</div>",
+    "name": "Software Engineer, Billing",
+    "type": "external",
+    "publication_date": "2021-03-31T23:01:30Z",
+    "short_name": "software-engineer-billing",
+    "model_type": "jobs",
+    "id": 5526850,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Mid Level",
+        "short_name": "mid"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/dialpad/software-engineer-billing"
+    },
+    "company": {
+        "id": 12228,
+        "short_name": "dialpad",
+        "name": "Dialpad"
+    }
+    },
+    {
+    "contents": "<p>NVIDIA is looking for creative and highly motivated engineers with system software expertise to join our GPU Software team. You will collaborate with world class engineers to design and develop our GPU kernel drivers and embedded SW. Your focus will be enabling GPU virtualization in the data center. GPU virtualization enables cutting edge applications, like Cloud Gaming and Machine Learning, requiring software and hardware innovation. Join us to build a world class GPU virtualization solution for the datacenter, cloud, and beyond. </p>\n\n<p></p>\n\n<p><b>What you'll be doing: </b></p>\n\n<ul><li><p><span>Design and develop new features and capabilities for the next generation of our industry leading GPU virtualization solution.</span></p></li><li><p><span>Develop security features to protect the confidentiality and integrity of device user and device owner’s data in the cloud.</span></p></li><li><p><span>Help rebuild the core architecture of our GPU driver to put virtualization at its foundation; from kernel components down into secure firmware.</span></p></li><li><p><span>Design, develop, and debug Hypervisor driver for KVM, Xen, VMWare, Hyper-V.</span></p></li><li><p><span>Collaborate with many internal teams (software, hardware, architecture, SWQA and OEM support), external R&amp;D partners, and customers to define new products and features.</span></p></li></ul>\n\n<p></p>\n\n<p><b>What we need to see:</b> </p>\n\n<ul><li><p><span>BS or MS degree in Computer Engineering, Computer Science, or related degree. </span></p></li><li><p><span>4+ years of relevant software development experience.</span></p></li><li><p><span>Exceptional C programming and low-level driver experience; background and strength with complex system-level debugging.  </span></p></li><li><p><span>Hands on technical experience and demonstrated excellence in an environment with complex software and hardware designs.  </span></p></li><li><p><span>Proven leadership skills and strong ownership on past projects. </span></p></li><li><p><span>Kernel experience with Linux, Android, Chrome, or Windows systems.</span></p></li><li><p><span>Knowledge and comfort with computer system architecture, microprocessor, and microcontroller fundamentals (caches, buses, memory controllers, DMA, etc.). </span></p></li></ul>\n\n<p></p>\n\n<p><b>Ways to stand out from the crowd: </b></p>\n\n<ul><li><p><span>Experience as a maintainer or significant contributor to large open-source software projects. </span></p></li><li><p><span>Knowledge of virtualization platforms (KVM, Xen, Hyper-V).</span></p></li><li><p><span>Familiarity with kernel level security concepts, secure code quality practices, penetration testing or security assessments.</span></p></li><li><p><span>Experience with embedded system SW concepts, e.g.: RTOS and overlay programming models.</span></p></li></ul>\n\n<p></p>\n\n<p>NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us. If you're creative, passionate and self-motivated, we want to hear from you! </p>\n\n<p>NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. </p>\n\n<p></p>\n\n<p></p>\n\n<p></p>\n\n<p>NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.<p></p><p></p></p>",
+    "name": "System Software Engineer – GPU Virtualization",
+    "type": "external",
+    "publication_date": "2021-04-21T23:08:19Z",
+    "short_name": "system-software-engineer-gpu-virtualization",
+    "model_type": "jobs",
+    "id": 5627632,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Mid Level",
+        "short_name": "mid"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/nvidia/system-software-engineer-gpu-virtualization"
+    },
+    "company": {
+        "id": 12303,
+        "short_name": "nvidia",
+        "name": "NVIDIA"
+    }
+    },
+    {
+    "contents": "<p><strong>DESCRIPTION</strong><br><br>The Amazon Search team owns the software that powers Search - a critical customer-focused feature of Amazon.com. Whenever you visit an Amazon site anywhere in the world, it's our technology that delivers you outstanding search results. Our services are used by millions of Amazon customers a day.<br><br>Our team is responsible for the large-scale distributed systems that power those experiences. We design, build and operate high performance fault tolerant services that apply the latest technologies to solve customer problems.<br><br>As a software engineer on this team you will:<br>•  Evolve and grow a world-class search system, using AWS technologies to build systems that will be deployed to tens of thousands of machines worldwide, serving billions of requests with latencies in the tens of milliseconds.<br>•  Develop a cutting-edge framework for distributed applications and explore new ways to solve key problems at scale - Everything from how we do A/B tests to high performance inference with machine learned models.<br>•  Maintain a focus on scalability, latency, performance robustness, and cost trade-offs in a containerized cloud-based environment.<br>•  Apply mathematical analysis and modeling techniques to predict, measure and evaluate the consequences of designs and the ongoing success of our platform.<br>We provide a dynamic entrepreneurial environment, while leveraging the resources of Amazon.com (AMZN), one of the world's leading Internet companies. This position is based in either our office in San Francisco or Palo Alto, California.<br><br>By submitting your application here, you can apply once to be considered for multiple Software Engineer openings across various Amazon teams. If you are successful in passing through the initial application review and assessment, you will be asked to submit your career and personal preferences so that our dedicated recruiters can match you to the right role based on these preferences.<br><br>Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us<br><br>Amazon is an Equal Opportunity-Affirmative Action Employer - Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation<br><br><strong>BASIC QUALIFICATIONS</strong><br><br>•  Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design<br>•  1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.<br>•  2+ years of non-internship professional software development experience<br><br><strong>PREFERRED QUALIFICATIONS</strong><br><br>•  Masters Degree or PhD in computer science, or related discipline.<br>•  Experience with functional programming in Scala.<br>•  Familiarity with scalable algorithms for processing large amounts of data.<br>•  6+ years of experience with public cloud infrastructure.<br>•  Experience with open source search engines like Elasticsearch, Solr, or Lucene.</p>",
+    "name": "Software Development Engineer - Search Platform (Level 5) ",
+    "type": "external",
+    "publication_date": "2021-04-16T23:43:07Z",
+    "short_name": "software-development-engineer-search-platform-level-5",
+    "model_type": "jobs",
+    "id": 4870410,
+    "locations": [
+        {
+        "name": "United States"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/amazon/software-development-engineer-search-platform-level-5"
+    },
+    "company": {
+        "id": 12090,
+        "short_name": "amazon",
+        "name": "Amazon"
+    }
+    },
+    {
+    "contents": "<p><strong>Innovation Lives Here</strong><br><br>You go all in no matter what you do, and so do we. You want to use your powers for good, and that's exactly what we do at Lytx®. Our team is made up of hungry, humble, and capable people who are making a difference every day with technology that helps save lives each year.<br><br><b>Why Lytx:</b><br><br>Lytx is searching for an enthusiastic Embedded Software Engineer III to design and implement next generation products software. This is great opportunity to work and learn from a small, highly skilled team of firmware and hardware engineers engaged in building a product from its inception. <br><br><b>You'll Get To:</b><br><ul><li>Executes the software lifecycle supporting all phases of project development including requirements, design, implementation, and integration for selected module </li><li>Works with other disciplines (hardware, server software, etc.) to integrate and debug systems </li><li>Works with firmware quality assurance engineers to develop firmware system testing procedures, programs, and documentation </li><li>Develop primarily in C++ and C </li><li>Develop in both kernel and user space for an embedded Linux platform </li><li>Other duties as assigned </li></ul><br><br><b>What You'll Need: </b><br><ul><li>BS in Computer Science or equivalent experience</li><li>2+ years of related experience developing commercial products </li><li>Solid programming skills in C++ and C </li><li>Experience with Linux systems </li><li>Proficiency with Linux driver development a plus </li><li>Experience in the automotive industry a plus </li><li>Understanding of IPC, interrupts and multithreading </li><li>Operates in an open and collaborative environment </li><li>Demonstrates strong analytical, time-management, problem-solving and decision making abilities </li><li>Proven ability to produce work with limited supervision </li><li>Ability to work in a fast moving environment with tolerance of ambiguity </li><li>Great team member.  Strong team orientation. </li><li>Demonstrated high attention to detail </li></ul><br><b><strong><em>_</em></strong>____</b><br><br><b>Lytx is powered by cutting-edge technology and Happy People. </b>You want to use your powers for good, and that's exactly what we do at Lytx. Our team is made up of hungry, humble, and capable people who are making a difference every day with technology that helps save lives each year.<br><br>Lytx, Inc. is proud to be an equal opportunity/affirmative action employer and maintains a drug-free workplace. We are committed to attracting, retaining and maximizing the performance of a diverse and inclusive workforce. EOE/M/F/Disabled/Vet.<br></p>",
+    "name": "Embedded Software Engineer III",
+    "type": "external",
+    "publication_date": "2021-03-02T23:10:31Z",
+    "short_name": "embedded-software-engineer-iii",
+    "model_type": "jobs",
+    "id": 3613910,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        },
+        {
+        "name": "San Diego, CA"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Mid Level",
+        "short_name": "mid"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/lytx/embedded-software-engineer-iii"
+    },
+    "company": {
+        "id": 1335,
+        "short_name": "lytx",
+        "name": "Lytx"
+    }
+    },
+    {
+    "contents": "<p><b>Search Jobs</b><br><br><b>Job Description</b><br><br>Business summary<br><br>The world isin the midst ofa transformation. Enterprises across the globeare turning to software to change the way business is done. Today, in this device and application driven world, companiesare laser-focused on empowering teams by tailoring their businesses to their employees' digital behaviors. This is where we lead the way.<br><br>In VMware End User Computing (EUC), we build solutions that customize, simplify, and automate the employees' digital experience at work to help them achieve more. Our Workspace ONE platform provides every employee with the agility of being connected to the business from any device, on any Cloud, at any time.At the core of our business is our end-users; and everything we do is motivatedaround them and their experience.<br><br>Role and Responsibility<br><br>Our team is seeking a skilled engineer to own key features and components of ourHorizonproduct. You will get to work on some of the more challenging and interesting problems building on VMware's production-proven platform.Enabling the digital workspace transformation means developing solutions to allow usersto access content from anywhere on any device, and you will be tasked with designing and implementing those solutions to run across the spectrum of devices and systems.<br><br>Responsibilities:<br><br><ul><li>Bring broad technical experience, creative problem-solving skills, a passion for technology and coding, and a healthy dose of self-motivation.<br></li><li>Work at a fast paceandfailfast<br></li><li>Building software with great user experienceusing yourknowledgein building distributed systems, blended with a strong systems background.<br></li><li>Ability to lead a team, mentor engineers, be a champion for creative technical trends, cultivate a well-rounded technical mentality in the team.<br></li><li>Focustowardsthe products' architectural goals, ability to take an open-ended problem, architect and design an elegant and comprehensible solution.<br></li></ul><br><ul><li>Take projects from inception and design through to delivery.<br></li><li>Showstrong interpersonal and organizational skills.<br></li></ul><br>Required Skills<br><br><ul><li>8+ years of hands-on experience in software development usingC/C++<br></li><li>Track record of architecting, designing reusable, high-performing and scalable systems.<br></li><li>Experience with object-oriented design and multi-threaded programming<br></li><li>Experience in the development of end-user focused applications<br></li><li>Knowledge of OS internals(either Windows or Linux)<br></li><li>Experience in the development oflarge distributedsoftware systems at scale<br></li></ul><br><ul><li>Exposure to testing and deployment tools and CI/CD (Puppet, Chef, Jenkins, etc.)<br></li><li>Experience with developing automated tests, such as unittests<br></li><li>BS in Computer Science, Electrical Engineering or related disciplines - MS or PhD preferred<br></li></ul><br>PreferredSkills<br><br><ul><li>Experience with varioushypervisorsolutions (vSphere,HyperV,etc.)<br></li><li>Cross platform development experience on Windows, Linux, OS X, iOS, or Android<br></li><li>Reverse engineering with either kernel or user mode assembly debugging<br></li><li>Understanding of display protocols, such as RDP<br></li><li>Usage of graphics APIs (OpenGL, DirectX, etc.) or video codecs (H.264, HEVC, etc.) or audio encoding (Opus)<br>OR<br></li></ul><br><ul><li>Network programming experience(TCP/UDP, sockets, etc.)<br>OR<br></li><li>Device communication protocols and drivers (USB,printers, etc.)<br></li><li>Experience in providing APIs and SDK for third-partydevelopers<br></li></ul><br><b>VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: </b>VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law. <br><br><b>Search Jobs</b></p>",
+    "name": "Staff Engineer (C/C++ development)",
+    "type": "external",
+    "publication_date": "2021-03-29T23:16:29Z",
+    "short_name": "staff-engineer-cc-development",
+    "model_type": "jobs",
+    "id": 5279273,
+    "locations": [
+        {
+        "name": "United States"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/vmwarecarbonblack/staff-engineer-cc-development"
+    },
+    "company": {
+        "id": 11784,
+        "short_name": "vmwarecarbonblack",
+        "name": "VMware Carbon Black"
+    }
+    },
+    {
+    "contents": "<p><strong>Job Details:</strong> <br><strong>FULL STACK SENIOR ENGINEER</strong><br><br><strong>WHAT IS THE OPPORTUNITY?</strong><br><br>As a member of the Digital Technologies Group, the Full Stack Senior Engineer is responsible for designing, developing and maintaining legacy and \"Cloud First\" applications written primarily in C# and focused on .Net Core and Azure cloud platform. The group is continuously working to improve our Agile, Engineering, and DevOps practices and this role will be expected to actively participate in these efforts. At its core, this role requires excellent problem solving skills and C#/.Net, Java, Python and full stack coding capability. This role will need to effectively communicate, collaborate, and influence engineering and business team members across many projects and departmental boundaries. The Full Stack Senior Engineer is an advanced senior professional with wide ranging experience who uses various concepts and in-depth evaluation to resolve complex issues in creative and effective ways.The Full Stack Senior Engineer develops both front-end and back-end solutions. Designs, develops, updates/maintains solutions and provides technical guidance to other Team Members. At this level the main challenge is to identify causes and implement solutions to complex business problems in a multifunctional project, assessing and communicating issues of technology impact on the business.The colleague in this position would be comfortable with the following activities: Evaluates application software packages and makes recommendations to senior management. Lead &amp; participates with other colleagues in new product reviews, tests, and pilots. Collects &amp; in-depth analyzes business requirements for large projects. Performs in-depth feasibility studies, translates complex requirements into an appropriate design<br><br><strong>Technology and Innovation Division</strong><br>As a member of City National's Technology &amp; Innovation group, you will drive, develop, and maintain solutions for clients and colleagues. This is an exciting time of technology advancement and innovation across the bank, particularly within our technology teams.<br><br><strong>WHAT WILL YOU DO?</strong><br><br><ul><li>Will help lead in the design &amp; development of cross-functional, multi-platform application systems.</li><li>Writing great quality code with a drive for automated testing and validation based on the You Build You Own (YBYO) model.</li><li>Perform complex engineering activities for performance tuning, monitoring, deployment and production support.</li><li>Research, influence and implement vendor dependency to simplify the architecture.</li><li>Implement, maintain and update CI/CD pipelines on a cloud environment.</li><li>Collaborate with business partners, architects and other groups to identify complex technical and functional needs of systems based on priority.</li><li>Collaborate with multiple, enterprise-wide distributed performing teams to deliver new capabilities in business applications.</li><li>Design and develop API's for Omni-channel clients.</li><li>Provide technical guidance to Team members</li><li>Build APIs and UIs to help make use of large data sets, infrastructure and user experience.</li><li>Own the full lifecycle for web software development, from ideas to production.</li><li>Provide programming expertise and business analysis skills within broad business area, usually as a senior member of a project team, in analyzing, designing, modifying, and developing business applications.</li><li>Create and educate on programming specifications from which programs will be written, and designs, codes, tests, debugs, and documents programs.</li><li>Create &amp; review programming documentation and recommends changes in development, maintenance and application standards.</li><li>Analyze and develop logical database designs, data models and relational data definitions across multiple computing environments (e.g., host based, distributed systems, client server, etc.)</li><li>Comply with architectural standards and established methodologies and practices.</li></ul><br><br><strong>WHAT DO YOU NEED TO SUCCEED</strong><br><br><strong>Must-Have<em></strong><br><ul><li>Bachelor's Degree or equivalent</li><li>Minimum of 6+ years of software development experience And</li><li>Minimum of 4+ years of experience: Java, .NET, Python And</li><li>Minimum of 4+ years experience with databases and data modeling / design (SQL and NoSQL) And</li><li>Minimum of 3+ years coordinating team efforts in a project or operations environment</li><li>Minimum of 2 years in full stack development for cloud solutions (Azure or AWS) - Azure preferred</li></ul><br><br><strong>Skills and Knowledge</strong><br><ul><li>8+ years of experience in JavaScript development frameworks and tooling: Angular, React, VueJS, &amp; Gulp, Grunt, Yarn, etc.</li><li>8+ years of experience managing software development projects through complete release cycles</li><li>4+ years of experience in big data and event streaming technologies: Spark, Kafka, etc.</li><li>4+ years of experience leading software engineering teams</li><li>2+ years of experience in cloud technologies: Azure(big plus), AWS, OpenStack, etc.</li><li>2+ years of experience with container and orchestration: Docker, Kubernetes, etc.</li><li>2+ years of experience in build and CICD technologies: GitHub, BitBucket, Azure DevOps, Maven, Jenkins, Nexus or Sonar</li><li>2+ years of Scaled agile experience</li><li>4+ years of experience in quality assurance technologies: ATDD, Selenium, Cucumber, JUnit, NUnit, SoapUI or Postman</li><li>4+ years of experience in Unix Shell scripting</li><li>Certified in .Net, Java, Spring or cloud technologies</li><li>Exposure of data management methodologies</li><li>Experience with serverless architectures and computing</li><li>Preferably 2+ UI/UX development &amp; design systems: CSS, Web Components, Less, Sass</li></ul><br><br><strong></em>To be considered for this position you must meet at least these basic qualifications</strong><br>The preceding job description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.<br><br><strong>INCLUSION AND EQUAL OPPORTUNITY EMPLOYMENT</strong><br>City National Bank is an equal opportunity employer committed to diversity and inclusion. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other basis protected by law.<br><br><strong>ABOUT CITY NATIONAL</strong><br><br>We start with a basic premise: Business is personal. Since day one we've always gone further than the competition to help our clients, colleagues and community flourish.City National Bank was founded in 1954 by entrepreneurs for entrepreneurs and that legacy of integrity, community and unparalleled client relationships continues to drive phenomenal growth today. City National is a subsidiary of Royal Bank of Canada, one of North America's leading diversified financial services companies.<br><br>Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled<br> <a href=\"https://recruiting.adp.com/srccsh/public/RTI.home?r=5000694905806&amp;c=1138941&amp;d=External&amp;rb=TMP\">Apply Now</a></p>",
+    "name": "Full Stack Senior Engineer",
+    "type": "external",
+    "publication_date": "2021-03-14T11:13:56Z",
+    "short_name": "full-stack-senior-engineer-ad4c4a",
+    "model_type": "jobs",
+    "id": 5365846,
+    "locations": [
+        {
+        "name": "United States"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/citynationalbank/full-stack-senior-engineer-ad4c4a"
+    },
+    "company": {
+        "id": 1626,
+        "short_name": "citynationalbank",
+        "name": "City National Bank"
+    }
+    },
+    {
+    "contents": "<p><b>Senior Principal Software Engineer - Admin &amp; Security (Remote/Virtual)</b> <br><br>Are you ready to work on world changing technologies?  Today, organizations need to move with increased agility and insight to grow and thrive. Dell Boomi is one of the hottest tech companies in the SaaS/Cloud industry, named a Leader for the seventh year in a row in the Gartner Enterprise iPaaS Magic Quadrant and recently recognized by Inc. Magazine as one of the best workplaces. Our award-winning, patented technology is transforming the world of integration by making enterprise-class integration technology accessible and affordable to companies of all sizes.  Dell Boomi develops, deploys, and operates mission critical data integrations for small, medium, and enterprise level customers. Our Engineers within our Boomi team are thought leaders and have significant input into the design and direction of our product. Join us in our mission to make integration accessible to organizations of all sizes. <br><br>Dell Boomi Product Overview: <a href=\"https://youtu.be/AcwMPny1uCo\"> https://youtu.be/AcwMPny1uCo </a><br><br>Working at Dell Boomi means doing what you love. We hire trailblazers with an entrepreneurial spirit who can solve challenging problems, make a real impact in technology, and want to build something big. If you are passionate about solving hard problems, enjoy working with world-class people, and developing cutting edge technology, you should explore a career with Boomi. Learn more at <a href=\"http://www.boomi.com/\"> http://www.boomi.com/ </a>   or visit <a href=\"https://boomi.com/company/careers/\"> Boomi Careers </a> .  <br><br>The Admin &amp; Security team builds software and capabilities to keep our customers' data secure and private. We build application enhancements that improve our login experience, user management, and platform security. <br><br>Security practices and standards are constantly evolving. New attack vectors and threats can appear overnight, and we need to be able to respond to them. <br><br>Join us as a <b>Senior Principal Software Engineer</b> on the <b>Admin &amp; Security</b> team based in Chesterbrook, Pa to do the best work of your career and make a profound social impact. This role may also be full-time remote. Core working hours are normal business hours in the Eastern time zone. <br><br><b>What you'll achieve</b><br> As a Senior Principal Software Engineer, you will be responsible for developing sophisticated systems and helping customers meet their business goals while maintaining a secure, compliant, and user-friendly environment. <br><br><b>You will:</b><br><br>• Take a leadership role in designing and driving efforts for security enhancements, incident / triage response, and security capability maturity throughout our application ecosystem. <br><br>• Mentor team members in design collaboration, code reviews, development tools and processes to ensure up front and pervasive security considerations. <br><br>• Serve as an evangelist for the application security culture in our organization. Work closely with other team leads on application security best practices and processes to continuously improve Boomi's application security posture across our product and platform landscape. <br><br>• Work with Dell's security team to help improve Boomi's ability to respond to security incidents. <br><br>• Take part in the full software development life cycle including development, test, continuous delivery and support <br><br>• Be an active member of an agile team, collaboratively realizing features through development, test and delivery <br><br><b>Take the first step towards your dream career</b><br>Every Dell Technologies team member brings something unique to the table. Here's what we are looking for with this role:<br><br><b>Essential Requirements</b><br><br>• 13+ years of software development experience <br><br>• Strong problem-solving and analytical skills <br><br>• Agility to adapt to technologies and processes quickly <br><br>• Strong development/programming experience in OOP languages like Java/C# <br><br>• Knowledge of web technologies like JavaScript, HTTP, and REST <br><br>• Experience building and leading general application security improvements in a multi-tenant, cloud based platform <br><br>• The ability to effectively communicate software architectures, designs, and security concepts both verbally and in writing <br><br><b>Desirable Requirements</b><br><br>• Experience with threat modeling <br><br>• Experience with penetration testing techniques <br><br>• Experience with vulnerability analysis <br><br>• Experience with OWASP top 10/SANS Top 25 vulnerabilities <br><br>• Experience with functional programming like JavaScript/lambdas <br><br><b>Here's our story; now tell us yours:</b><br><br>Dell Boomi provides the foundation on which your business can evolve and innovate. According to a recent survey by Vanson Bourne, connected businesses are far outpacing their competitors. We help organizations connect everything and engage everywhere across any channel, device or platform. More than 13,000 organizations are using Boomi to run better, faster and smarter. <br><br>Organizations across industries and geographies are seeking faster and smarter ways to modernize their digital infrastructure. But the increasing complexities of application and data integration is a growing challenge. And with the accelerating pace of business, companies can't afford to spend months on complex and resource-intensive integration projects. <br><br>The Dell Boomi cloud-native platform provides revolutionary speed and ease for connecting any combination of on-premise or cloud-based applications for automating business processes. Our unified platform includes robust support for: core integration, master data, API, EDI, and workflow management. All based on one unified, \"low-code\" development environment. By tapping the power of the Boomi platform, any organization can significantly shorten project times, reduce costs, streamline processes, and boost productivity. Our technologies connect applications, assure data quality, and automate workflows. <br><br>Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We're proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.<br>What's most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.We started with computers, but we didn't stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what's next in technology, starting today.<br>You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 <a href=\"https://jobs.dell.com/diversity-and-inclusion\">here</a>.<br><br>Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy <a href=\"https://jobs.dell.com/equal-employment-opportunity-policy-statement\">here</a>.<br><br></p>",
+    "name": "Dell Boomi Senior Principal Software Engineer - Admin & Security (Remote/Virtual)",
+    "type": "external",
+    "publication_date": "2021-03-19T23:48:13Z",
+    "short_name": "dell-boomi-senior-principal-software-engineer-admin-security-remotevirtual",
+    "model_type": "jobs",
+    "id": 5447217,
+    "locations": [
+        {
+        "name": "Berwyn, PA"
+        },
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/delltechnologies/dell-boomi-senior-principal-software-engineer-admin-security-remotevirtual"
+    },
+    "company": {
+        "id": 12132,
+        "short_name": "delltechnologies",
+        "name": "Dell Technologies"
+    }
+    },
+    {
+    "contents": "<p><b>Discover. A brighter future.</b><br><br>With Discover, you'll have the chance to make a difference at one of the world's leading digital banking and payments companies. From Day 1, you'll do meaningful work you're passionate about, with the support and resources you need for success. We value what makes each employee unique and provide a collaborative, team-based culture that gives everyone an opportunity to shine. Be the reason millions of people find a brighter financial future, while building the future you want, here at Discover.<br><b><b>Job Description</b></b><br><br>The Enterprise Technology Platform organization is seeking a highly skilled and cloud-native Machine Learning engineer that has a passion for Data Science. Your role is to develop, test &amp; operate reusable ML code patterns. You'll provide support to the internal engineering, infrastructure, &amp; Business Data Science teams to continuously improve &amp; optimize our analytics.<br><br><b>Responsibilities:</b><br><ul><li>Work as part of a team of other Cloud Machine Learning engineers to design and build packages and automation scripts that enable data scientists and business analysts to easily consume cloud-native services.</li><li>Technical point of contact for internal platforms teams as it relates to analytics,</li><li>Data science and visualization</li><li>Developing secure design patterns for analytics architectures deployed in the public cloud and/or orchestrated container environments.</li><li>Develop container image lifecycle management systems</li><li>Leads the design, build and maintenance of modern cloud platforms that support agile teams.</li><li>Partners with key stakeholders as a platform champion for cloud-native systems, and coaches on how to use platform capabilities effectively through appropriate venues.</li><li>Drives continuous improvement of cloud products &amp; capabilities through internal user groups and external market research.</li><li>Leads the development and implementation of advanced analytics including customer segmentation, optimization, prescriptive analytics and machine learning algorithm &amp; recommendation to solve business problems. Operates as a subject matter expert on statistical analysis, test and design of experiment, analysis methodology, modeling &amp; application, and financial impact analysis.</li><li>Collaborates with cross-functional partners to understand their business needs, formulate and complete end-to-end analysis that includes data gathering, analysis, ongoing scaled deliverables and presentations. Delivers effective presentations of findings and recommendations to multiple levels of leadership, creating visual displays of quantitative information.</li><li>Establishes and maintains effective performance tracking; identify improvement opportunity, form hypothesis, proposes, designs and implements tests to drive strategy enhancement and optimization.</li><li>Manages multiple priorities, communicate business performance and project progress to management &amp; business partners.</li><li>Develops and automates reports, iteratively build and prototype dashboards to provide insights at scale, solving for analytical needs. Facilitates implementation of work product and ensure accuracy.</li><li>Consistently follows standard work processes and documentation requirements. Recommends improvement to work processes to increase efficiency while maintaining quality of work. Continuously improves technical and leadership skills through training and development.</li></ul><br><b>Skills Required:</b><br><ul><li>Bachelors degree in Analytics, Engineering or Statistics</li><li>4+ years of work experience in Credit Risk, Fraud Risk, Marketing Analytics, Optimization, Operations Analytics, Modeling/Data Science or related</li></ul><br><b>Skills Desired:</b><br><ul><li>3+ years of experience in Machine Learning, Deep learning, Visualization or related field</li><li>Knowledge of Infrastructure as Code, Immutable Infrastructure, &amp; continuous integration/deployment practices</li><li>Proficient in at least one programming language (Python, R)</li><li>Experience in version control systems such as Git, GitLab, etc.</li><li>Experience administering &amp; hardening Linux systems</li><li>Familiarity with technical challenges associated with containers and distributed systems with a focus on analytics research environments.</li><li>Experience with analytics tools (SAS, R, Scientific Python, H2o, SQL)</li><li>Willingness to continuously learn &amp; share learnings with others</li><li>Ability to work in a fast-paced, rapidly changing environment</li><li>Very strong verbal &amp; written communication skills</li><li>Experience with solving problems and delivering high quality results in a fast-paced environment</li><li>Experience with analytics tools (SAS, R, Scientific Python, H2o)</li><li>Experience with data mining, machine learning, statistical modeling tools or underlying algorithms</li><li>Experience within the Financial industry</li></ul><br>#Remote<br><br>#BI-Remote<br><br>#LI-KE<br><br>What are you waiting for? Apply today!<br><br>The same way we treat our employees is how we treat all applicants - with respect. Discover Financial Services is an equal opportunity employer (EEO is the law). We thrive on diversity &amp; inclusion. You will be treated fairly throughout our recruiting process and without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status in consideration for a career at Discover.</p>",
+    "name": "Lead Machine Learning Engineer",
+    "type": "external",
+    "publication_date": "2021-03-13T00:21:02Z",
+    "short_name": "lead-machine-learning-engineer",
+    "model_type": "jobs",
+    "id": 4657312,
+    "locations": [
+        {
+        "name": "Albuquerque, NM"
+        },
+        {
+        "name": "Anchorage, AK"
+        },
+        {
+        "name": "Bakersfield, CA"
+        },
+        {
+        "name": "Berlin, CT"
+        },
+        {
+        "name": "Bixby, OK"
+        },
+        {
+        "name": "Bradenton, FL"
+        },
+        {
+        "name": "Burlington, NC"
+        },
+        {
+        "name": "Canton, GA"
+        },
+        {
+        "name": "Columbia, SC"
+        },
+        {
+        "name": "Columbus, OH"
+        },
+        {
+        "name": "Greenville, AL"
+        },
+        {
+        "name": "Hilo, HI"
+        },
+        {
+        "name": "Holland, MI"
+        },
+        {
+        "name": "Hurricane, UT"
+        },
+        {
+        "name": "Jackson Hole, WY"
+        },
+        {
+        "name": "Jackson, MS"
+        },
+        {
+        "name": "Jamestown, ND"
+        },
+        {
+        "name": "Jeffersonville, IN"
+        },
+        {
+        "name": "Johnson City, TN"
+        },
+        {
+        "name": "Johnstown, PA"
+        },
+        {
+        "name": "Kuna, ID"
+        },
+        {
+        "name": "Laconia, NH"
+        },
+        {
+        "name": "Laurel, MD"
+        },
+        {
+        "name": "Lincoln, NE"
+        },
+        {
+        "name": "Manhattan, KS"
+        },
+        {
+        "name": "Manhattan, NY"
+        },
+        {
+        "name": "Mansfield, TX"
+        },
+        {
+        "name": "Marshalltown, IA"
+        },
+        {
+        "name": "Minneapolis, MN"
+        },
+        {
+        "name": "Mission Viejo, CA"
+        },
+        {
+        "name": "Missoula, MT"
+        },
+        {
+        "name": "Mountain Home, AR"
+        },
+        {
+        "name": "Newark, DE"
+        },
+        {
+        "name": "Oakland, CA"
+        },
+        {
+        "name": "Quincy, MA"
+        },
+        {
+        "name": "Reno, NV"
+        },
+        {
+        "name": "Richmond, VA"
+        },
+        {
+        "name": "Rolla, MO"
+        },
+        {
+        "name": "Rutland, VT"
+        },
+        {
+        "name": "Scottsdale, AZ"
+        },
+        {
+        "name": "Sheboygan, WI"
+        },
+        {
+        "name": "Summersville, WV"
+        },
+        {
+        "name": "Trenton, NJ"
+        },
+        {
+        "name": "Union, NJ"
+        },
+        {
+        "name": "United States"
+        },
+        {
+        "name": "University Place, WA"
+        },
+        {
+        "name": "Villa Park, IL"
+        },
+        {
+        "name": "Washington, DC"
+        },
+        {
+        "name": "Watertown, SD"
+        },
+        {
+        "name": "West Hollywood, CA"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Data Science"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/discover/lead-machine-learning-engineer"
+    },
+    "company": {
+        "id": 12009,
+        "short_name": "discover",
+        "name": "Discover"
+    }
+    },
+    {
+    "contents": "<p><span>LiveRamp is the leading data connectivity platform. We are committed to connecting the world’s data safely and effectively, advancing innovation, and empowering people to do good. Our platform powers customer experiences centered around the needs and concerns of real people, keeping the Internet open for all. We enable individuals around the world to connect with the brands and products they love. LiveRampers thrive on solving challenging problems for the good of humanity—and we’re always looking for smart, kind, and creative people to help us get there.<br><br></span></p>\n\n<p><strong>Mission: </strong><span>LiveRamp makes </span><span>it safe and easy for businesses to use data effectively.<br><br></span></p>\n\n<p><span>The DevOps team is responsible for ensuring the high availability of an infrastructure that processes billions of customer records on a daily basis, supporting teams globally with standardized tools and processes to help them get things done better and faster. We are looking for a Senior DevOps engineer who is excited about establishing and advocating best practices for our infrastructure running in the cloud. You will be able to leverage your software engineering expertise to understand the needs of teams and guide them in improving their systems. The right person will be someone who gets as much satisfaction from teaching an engineer to debug Terraform as they do from building tools to automate a release process. <br><br></span></p>\n\n<p><strong>You will:</strong></p>\n\n<ul>\n<li><span>Promote an infrastructure-as-code philosophy, leveraging tools like Terraform, Kubernetes, and Docker</span></li>\n<li><span>Provide subject matter expertise for GCP and AWS cloud end-to-end architecture</span></li>\n<li><span>Collaborate with engineering teams to architect and implement solutions to improve deployment processes and CI-CD capabilities using Jenkins and Spinnaker</span></li>\n<li><span>Help the organization leverage tools such as Datadog, Forseti, PagerDuty, and LogDNA to monitor applications and infrastructure proactively and keep things running smoothly</span></li>\n<li><span>Engineer systems and processes with compliance and security in mind</span></li>\n<li><span>Ensure cloud solutions are implemented and delivered with best practices, standards, appropriate controls, and thorough documentation</span></li>\n<li><span>Provide technical governance for infrastructure design, deployment, and operations<br><br></span></li>\n</ul>\n\n<p><strong>Your team will:</strong><span> </span></p>\n\n<ul>\n<li><span>Support an entire engineering organization based in California, New York, Paris, London and Nantong, China</span></li>\n<li><span>Lead and collaborate with technical, application, and security leads to deliver a reliable and secure platform on GCP and AWS</span></li>\n<li><span>Lead the cloud improvements for availability, performance, observability, scalability, quality and cost effectiveness</span></li>\n<li><span>Lead and own creation of cloud-focused best practises, building blocks, and patterns to ensure deployed solutions are scalable, immutable, and resilient</span></li>\n<li><span>Function as stewards for shared data, services, tools, processes and libraries<br><br></span></li>\n</ul>\n\n<p><strong>About you:</strong><span> </span></p>\n\n<ul>\n<li><span>Have 3+ years of DevOps-like work experience and a passion for infrastructure and helping your fellow developers</span></li>\n<li><span>Experienced working with cloud platforms like GCP or AWS employing a modern infrastructure-as-code approach using Terraform or CloudFormation</span></li>\n<li><span>Experienced deploying and supporting containerized applications with Kubernetes, GKE, EKS or the like</span></li>\n<li><span>Have built and supported continuous integration pipelines using Jenkins, TeamCity, CircleCI, Travis CI, or similar</span></li>\n<li><span>Comfortable with shell scripting and fluent in at least one of Ruby, Java or Go</span></li>\n<li><span>Ability to diagnose technical problems, debug code, and automate routine tasks</span></li>\n<li><span>Experience with securing systems in a public cloud environment</span></li>\n</ul>\n\n<p> </p>\n\n<p><strong>Bonus Points:</strong></p>\n\n<ul>\n<li><span>Enjoys working as part of a distributed team: smart, ethical, friendly, hard-working, and productive</span></li>\n<li><span>Understands how to engage other engineers as stakeholders<br><br></span></li>\n</ul>\n\n<p><strong>Benefits:</strong></p>\n\n<ul>\n<li><span>People: work with talented, collaborative, and friendly people who love what they do.</span></li>\n<li><span>In-Office Food: enjoy catered meals, boundless snacks, and the occasional food truck.</span></li>\n<li><span>Fun: we host in-person and virtual events such as game nights, happy hours, camping trips, and sports leagues. </span></li>\n<li><span>Work/Life Harmony: flexible paid time off, options for working from home, and paid parental leave.</span></li>\n<li><span>Whole Health Package: medical, dental, vision, and disability insurance. Plus mental health support (via Talkspace) and fitness reimbursement up to $100 per month. </span></li>\n<li><span>Savings: our 401K matching plan helps you plan ahead.</span></li>\n<li><span>RampRemote: a comprehensive program to assist you in setting up a home office that works for you<br><br></span></li>\n</ul>\n\n<p><strong>More about us:</strong></p>\n\n<p><span>LiveRamp’s mission is to connect data in ways that matter, and doing so starts with our people. We know that inspired teams enlist people from a blend of backgrounds and experiences. And we know that individuals do their best when they not only bring their full selves to work but feel like they truly belong. Connecting LiveRampers to new ideas and one another is one of our guiding principles—one that informs how we hire, train, and grow our global team across eight countries and four continents.</span></p>\n\n<h6><span>LiveRamp is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status. Qualified applicants with arrest and conviction records will be considered for the position in accordance with the San Francisco Fair Chance Ordinance. </span></h6>\n\n<h6><span>California residents: Please see our </span><a href=\"https://liveramp.com/privacy/california-personnel-privacy-policy/\"><span>California Personnel Privacy Policy</span></a><span> for more information regarding how we collect, use, and disclose the personal information you provide during the job application process.</span></h6>\n\n<p><em><span>To all recruitment agencies: LiveRamp does not accept agency resumes. Please do not forward resumes to our jobs alias, LiveRamp employees or any other company location. LiveRamp is not responsible for any fees related to unsolicited resumes.</span></em></p>\n\n<p><span>#LI-Remote</span></p>",
+    "name": "Senior DevOps Engineer",
+    "type": "external",
+    "publication_date": "2021-04-21T23:15:02Z",
+    "short_name": "senior-devops-engineer-8ef79e",
+    "model_type": "jobs",
+    "id": 5674772,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/liveramp/senior-devops-engineer-8ef79e"
+    },
+    "company": {
+        "id": 12120,
+        "short_name": "liveramp",
+        "name": "LiveRamp"
+    }
+    },
+    {
+    "contents": "<p>Boston, MA, USA ● Woodland Hills, Los Angeles, CA, USA ● Virtual Req #12088 <br><br>Friday, October 30, 2020 <br><br>Gannett Co., Inc. (NYSE: GCI) is an innovative, digitally focused media and marketing solutions company committed to strengthening communities across our network. With an unmatched reach at the national and local level, Gannett touches the lives of nearly 140 million people monthly with our Pulitzer-Prize winning content, consumer experiences and benefits, and advertiser products and services. Gannett brands include the USA TODAY and more than 260 daily local newspaper brands, digital marketing services companies ReachLocal, WordStream, and ThriveHive and U.K. media company Newsquest. There's never been a better time to join our talented team. Visit <a href=\"http://gannett.com/Careers\">Gannett.com/Careers</a>  to learn more about our opportunities, and visit <a href=\"https://www.gannett.com/privacy-statement/\"> Gannett Privacy Policy </a>  to understand our privacy policy.  <br><br>Our SaaS product team, building a best in class digital marketing solution is looking for a Senior Software Engineer - Full Stack, who likes to design and build software systems end to end, from excellent user experience to back-end services. If you are familiar with Agile methodologies, profoundly technical, analytical, and eager to build solutions that directly impact the company's core values, we want to talk to you! <br><br>We are a fast-paced engineering team working to build the next generation of Digital Marketing management systems partnering with Google, Bing, Yahoo, and Facebook. <br><br><b> Responsibilities </b><br><br>• Lead a talented team of front-end, back-end and QA resources partnering with the product team to deliver solutions that help drive sales of our Digital Marketing Services <br><br>• Analyze, design, and coordinate the development of back end services, including downstream APIs using Java and J2EE <br><br>• Design and develop a great user experience using modern web technologies (UI/UX, Angular) <br><br>• Provide technical guidance to the team and facilitate sprint planning, review, and sprint retrospective  <br><br>• Develop scalable, tested, and reliable applications and services <br><br>• Integrate internal as well as third-party web services and components <br><br>• Consistently follow and continue to help improve our engineering processes, including code reviews, deployment, and issue tracking <br><br><b>Minimum Qualifications</b> <br><br>• Bachelor's degree expected in a technical discipline, but compensating experience may be considered <br><br>• Minimum 8+ years of experience as a Software Engineer using multiple technologies and frameworks  <br><br>• Hands-on back-end microservices &amp; REST API development using Java, J2EE, and related technologies <br><br>• Strong hands-on experience with Spring Boot <br><br>• Experience in front-end development using Angular and JavaScript will be an advantage <br><br>• Experience in working with Databases and Messaging Queue Systems <br><br>• Experience in React will be an advantage <br><br>• AWS exposure and cloud environments from a DevOps perspective would be an advantage <br><br>Gannett Co., Inc. is a proud equal opportunity employer. We are a drug free, EEO employer committed to a diverse workforce. We will consider all qualified candidates regardless of race, color, national origin, sex, age, marital status, personal appearance, sexual orientation, gender identity, family responsibilities, disability, education, political affiliation, or veteran status.</p>",
+    "name": "Senior Software Engineer, Full Stack",
+    "type": "external",
+    "publication_date": "2021-03-19T23:10:07Z",
+    "short_name": "senior-software-engineer-full-stack",
+    "model_type": "jobs",
+    "id": 4455191,
+    "locations": [
+        {
+        "name": "Boston, MA"
+        },
+        {
+        "name": "Flexible / Remote"
+        },
+        {
+        "name": "Woodland Hills, CA"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/usatodaynetwork/senior-software-engineer-full-stack"
+    },
+    "company": {
+        "id": 1268,
+        "short_name": "usatodaynetwork",
+        "name": "USA TODAY NETWORK"
+    }
+    },
+    {
+    "contents": "<div>\n<h2>We believe that everyone should be able to use Discord. From ensuring excellent screen reader support to implementing keyboard navigation, we ensure that all our users can have a delightful experience with Discord. We're a small but mighty group of generalists who focus on product excellence, building primitives for other engineers, and talking to our users to be sure we're meeting their needs.<br><br></h2>\n<h2>We're looking for product-driven, empathetic engineers who have experience building front-end architecture for other engineers, and very importantly, compassion for our users. We encourage our engineers to follow their interests while maintaining real ownership over their work. </h2>\n<h4>You Will: </h4>\n<ul>\n<li><span>Work across iOS, Android, and web to guarantee a delightful experience for all our users</span></li>\n<li><span>Be a resource for other teams on the best way to handle accessibility needs across the product</span></li>\n<li><span>Work with product, design, and other team members on how to maintain accessibility standards for the long-haul</span></li>\n<li><span>Build internal tools to empower all of engineering and design to create accessible features</span></li>\n</ul>\n</div>\n\n<div>\n<h4>You Have:</h4>\n<ul>\n<li><span>Familiarity with web (React, TypeScript), iOS (React Native, Objective-C, Swift), or Android (Kotlin, RxJava) development. We're a cross-platform team and believe that engineers should be empowered to work across a variety of tech stacks. The stacks you don't know, we'll teach you!</span></li>\n<li><span>Experience building, shipping, and iterating on product features </span></li>\n<li><span>Experience balance speed and quality to ship high impact products</span></li>\n<li><span>Experience advocating for and talking to real users </span></li>\n</ul>\n<h4>Bonus Points: </h4>\n<ul>\n<li><span>Shipped products across multiple platforms (web, iOS, and Android)</span></li>\n<li><span>A history of open-source contributions to community libraries and tools.</span></li>\n</ul>\n</div>\n\n<div>\n<h4>Our Benefits:</h4>\n<ul>\n<li><span>Medical, Dental, Vision and Life insurance (options for individual and/or family, including One Medical membership for health) and Disability benefits</span></li>\n<li><span>Commuter subsidies, healthcare and/or Flexible Spending Accounts (FSA)</span></li>\n<li><span>4 weeks of PTO (alongside 14 paid holidays and use-what-you-need sick days) </span></li>\n<li><span>Parental Leave</span></li>\n<li><span>Well-being programs, including fitness allowance (we have yoga once a week in our office!) </span></li>\n<li><span>401(K) plans</span></li>\n<li><span>Catered lunches Monday-Friday and a fully-stocked kitchen (snacks and beverages galore!)</span></li>\n<li><span>Regular company and team social events such as game nights, happy hours and events</span></li>\n<li><span>An annual desk fund to make your space truly yours</span></li>\n<li><span>Headphone allowance </span></li>\n<li><span>Internal Learning and Development workshops to help with continued personal and professional growth</span></li>\n</ul>\n</div>\n\n<h4>About Us</h4>\n\n<p><span>Friends, coworkers, gamers, nerds, moms, dads, engineers, designers, marketers, support. Originally, we created Discord to help people come together around games. It's been amazing to watch it grow into what it is today - a place where millions of diverse communities exist and people connect with old friends and new. Diversity and inclusiveness are a critical part of how we get to what's next. We believe that with diversity comes a better product, better decisions, and a better work environment. As we continue to grow, our values keep us dedicated to building a company that is representative of the world we live and play in.</span></p>\n\n<p><span>Discord is an equal opportunity employer committed to promoting an inclusive work environment free of discrimination and harassment. We value diversity, inclusion, and aim to provide a sense of belonging for everyone.</span></p>\n\n<p><span>#LI-BR1</span></p>",
+    "name": "Senior Software Engineer - Accessibility",
+    "type": "external",
+    "publication_date": "2021-03-03T23:16:23Z",
+    "short_name": "senior-software-engineer-accessibility",
+    "model_type": "jobs",
+    "id": 5211016,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/discord/senior-software-engineer-accessibility"
+    },
+    "company": {
+        "id": 12182,
+        "short_name": "discord",
+        "name": "Discord"
+    }
+    },
+    {
+    "contents": "<p>About Us:<br>            <br>ViacomCBS Streaming (formerly CBS Interactive) is a division of ViacomCBS that encompasses both free, paid, and premium streaming services including Pluto TV,Paramount +, CBS Sports Digital, and CBS News Digital.<br>                            <br>Description:<br><br><strong>Division Overview:</strong><br><br>We are the Video Operations and Streaming team, responsible for supporting the video delivery and architecture of VOD and Live content streamed on over 15 platforms for Paramount+. Our team is also responsible for the encoding and delivery of premium content to millions of users every day!<br><br><strong>Role Details:</strong><br><br>We are seeking a Senior Software Engineer (Video) who will help drive our system's evolution! The role will be an integral part of the Video Streaming and Operations team, working with video tech engineers to build and release products for various platforms like Desktop, OTT, Mobile. The candidate will also be responsible for doing minimal video quality check, building, deploying and managing video encoding applications in cloud (AWS/GCP).<br><br><strong>Your Day-to-Day:</strong><br><br><ul><li>Work with other engineers to maintain and evolve our video encoding platform.</li><li>Plan, Design and Build out cloud-based microservices to support video processing workflows.</li><li>Investigate and resolve video encoding issues.</li><li>Field questions and requests from site publishers regarding video encoding / playback.</li><li>Work closely with the QA coordinator to facilitate testing across a variety of devices</li><li>Work with other developers and operations team on streamlined CI/CD solution</li><li>Encourage an engineering culture that promotes test-driven development and code coverage</li><li>Additional other duties and responsibilities, as assigned</li></ul><br><strong>Key Projects:</strong><br><br><ul><li>Responsible for Video Transcoding<br></li><li>Building features and improving Static/Dynamic packaging solutions for Paramount+<br></li><li>Work on integrating video encoding platforms with multi-DRM and right management systems<br></li><li>Work with development teams on re-architecture/modernizing of existing systems into the cloud<br></li></ul><br>Qualifications:<br><br><strong>What you bring to the team:</strong><br><br><strong>You have -</strong><br><br><ul><li>5+ years of experience as a Software Engineer<br></li><li>Experience with AVC, HEVC, VP9, AV1, AAC video and audio codec standards<br></li><li>Experience with container formats, transmuting and streaming protocols (DASH/HLS)<br></li><li>Experience with containers technology and management such as Docker and Kubernetes<br></li><li>Experience working with Cloud/SaaS services such as Amazon AWS, Google Cloud<br></li><li>Experience in programming languages such as GoLang, PHP, Python<br></li><li>Strong written, verbal and interpersonal communication skills<br></li></ul><br><strong>You might also have -</strong><br><br><ul><li>Strong experience with video broadcasting and streaming media standards</li><li>BS degree in Computer Science, similar technical field of study or equivalent practical experience</li></ul>#LI-AW3 <br><br>EEO Statement:<br><br>ViacomCBS is an equal opportunity employer (EOE) including disability/vet<br><br>At ViacomCBS, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. ViacomCBS is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.<br><br>If you are a qualified individual with a disability or a disabled veteran, you may request a reasonable accommodation if you are unable or limited in your ability to use or access www.viacbs.com/careers as a result of your disability. You can request reasonable accommodations by calling 212.846.5500 or by sending an email to viacomaccommodations@viacom.com. Only messages left for this purpose will be returned.</p>",
+    "name": "Senior Software Engineer (Video) - CBS All Access / Paramount+",
+    "type": "external",
+    "publication_date": "2021-03-31T11:13:57Z",
+    "short_name": "senior-software-engineer-video-cbs-all-access-paramount-553087",
+    "model_type": "jobs",
+    "id": 5159830,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/viacomcbsstreaming/senior-software-engineer-video-cbs-all-access-paramount-553087"
+    },
+    "company": {
+        "id": 1184,
+        "short_name": "viacomcbsstreaming",
+        "name": "ViacomCBS Streaming"
+    }
+    },
+    {
+    "contents": "<div><div><div>Copper is not just another CRM. It’s the only CRM that is 100% focused on helping clients build the strongest possible business relationships that will win them customers for life. Our belief is that this is the key to surviving any economic landscape. Copper surprises people: clients tell us they actually love their CRM, as this was previously a feat of impossibility. We’re turning CRM on its head by offering a beautifully crafted, G Suite-native tool that offers transparency, collaboration, and productivity. We are a small group of thoughtful people with a sense of purpose: to help our audience of small and medium-sized businesses grow.</div><div><br></div><div>Copper is looking for a positive, customer-oriented <b>Senior Back-End Software Engineer</b> to join our product development team.  This person will focus on server software initially, with an opportunity of becoming full-stack with both client and server software engineering.  The focus will be adding and improving features for our CRM. </div><div><br></div><div>The person in this role should be comfortable interacting within and across teams that are composed of client and server engineers, QA engineers, product managers, and user-experience designers.  They should also bring a sense of ownership across our software development lifecycle - definition, development, delivery, and analysis.  </div><div><br></div><div><b>Copper's technical stack includes Ruby-on-Rails, <a href=\"http://ember.js/\">Ember.js</a>, Resque, Elasticsearch, Redis, PostgreSQL.  </b>We are engineering for a scaled (high-volume, high-quality) production environment.  Our product and engineering team members are located mostly in Canada and in the United States. <b>This position is open in Canada, we are remote flexible, and we are an equal-opportunity employer. </b></div></div><div><div><h3>A day in the life …</h3><ul><ul><li>Meet with your team daily with a quick standup.  We like to talk through deliverables, difficulties, and have fun</li><li>Participate in shaping our technical direction through component design, software architecture, and growing our tech stack through both dialog and writing </li><li>Manage deliverables through our continuous integration system and release processes.  The process of building a web-app at scale has challenges, and we collaborate to create solutions as well as review code and monitor for success </li><li>Work together with architects and fellow engineers when thinking through how to build and deliver technology </li><li>Use our analytical tools for evaluating user engagement, as well as component and system performance </li><li>Contribute in a meaningful way for the growth of the company</li></ul></ul></div></div><div><div><h3>What you'll have ...</h3><ul><ul><li>6+ years of professional software development experience</li><li><b>2+ years of recent Ruby-on-Rails experience</b></li><li>Hands-on experience with relational databases and persistence systems. We use PostgreSQL, Elasticsearch, and Redis</li><li>Exposure to JavaScript and related frameworks: Angular, React or Ember is a nice to have </li><li>Excellent communication and collaboration skills.  We highly value follow-up </li><li>Experience in delivering a large feature </li><li>Experience with asynchronous data processing </li><li>Knowledge of common security vulnerabilities and how to maintain system integrity.</li></ul></ul></div></div><div><div><br></div><div><br></div><div><b>At Copper we are committed to building and empowering a diverse and inclusive environment.  We recognize that diverse teams are strong teams, so we encourage people from all backgrounds to apply.</b></div><div><br></div><div><b>If this opportunity sounds interesting, apply today!  We would like to hear from you.</b></div><div><br></div><div><b>Note about Copper remote flexible work</b></div><div>We are working remotely and doing our part to ensure that our employees and future employees are healthy, safe, and at home to reduce the spread of Covid-19.</div><div><br></div><div>If you're invited to our interview process all our meetings are conducted through video. All new employees will be starting remotely and all necessary equipment will be shipped to them in advance.  </div></div><div><a href=\"https://jobs.lever.co/copper/81e8484b-3444-4239-95aa-37cdadce6cec/apply\">Apply for this job</a></div></div>",
+    "name": "Senior Back End Software Engineer (Remote)",
+    "type": "external",
+    "publication_date": "2021-04-21T23:17:44Z",
+    "short_name": "senior-back-end-software-engineer-remote-78d8e9",
+    "model_type": "jobs",
+    "id": 5646017,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/copper/senior-back-end-software-engineer-remote-78d8e9"
+    },
+    "company": {
+        "id": 12326,
+        "short_name": "copper",
+        "name": "Copper"
+    }
+    },
+    {
+    "contents": "<p>The Solutions Consultant, SAP Specialist, will perform and demonstrate all of BlackLine’s accounting modules to prospective customers.  As an SAP Specialist, you will focus on the value BlackLine adds for SAP clients and will maintain an expertise of BlackLine’s capabilities for SAP clients.  The Solutions Consultant will support the sales team and their development of positive and effective relationships with prospective clients and internal departments to ensure prospective client expectations are exceeded.  The primary focus of the Solutions Consultant is to facilitate the acquisition of new business.<br><br><br><strong>Job Duties and Responsibilities: </strong><br><ul><li>Perform needs analysis calls on prospective clients to thoroughly and accurately understand their challenges.</li><li>Deliver relevant and pertinent demonstrations of all BlackLine modules based on prospect needs.</li><li>Complete ROI Analysis for prospective clients.</li><li>Assist with completion and review of requests for proposal and information (RFPs and RFIs).</li><li>Maintain relevant expertise with SAP financial software.</li><li>Maintain expertise with the interaction of BlackLine software and SAP software.</li><li>Partner with the Sales team through answering prospect technical, software and accounting questions.</li><li>Keep current on new product functionality and its proper use.</li><li>Provide and review BlackLine best practices, use case scenarios and prospective client stories both internally and externally (including community) to assist prospective clients with the expanded use of application functionality.</li><li>Serve as a Moderator in the BlackLine Community.</li><li>Educate prospects and clients through webinars, on-site training presentations, and trials.</li><li>Prepare and deliver effective custom demonstrations using prospect data.</li><li>Provide coverage, education, and application expertise by attending client/prospect roundtables, conferences, and other events.</li><li>Meticulously document relevant activities in Salesforce and other tools as assigned.</li></ul><br><strong>Qualifications: </strong><br><ul><li>Previous experience with SAP Solutions specializing in financial applications</li><li>Experience creating and delivering compelling presentations</li><li>Strong ability to demonstrate and persuade using influencing skills and relating to prospective customers in a consultative manner</li><li>Strong communication and teamwork skills</li><li>Demonstrated ability to build relationships and trust with prospects/clients</li><li>Proven ability to understand and address prospective client objections</li><li>Strong ability to match product functionality to the prospects’ business needs</li><li>Demonstrate integrity, trustworthiness and good judgment</li></ul><br><strong>Preferred: </strong><br><ul><li>Previous enterprise-level experience as a Solutions or Implementations Consultant</li><li>Bachelor’s degree in Accounting, Economics or Business Administration (or equivalent work experience: 4 years +)</li><li>Previous work in an accounting function</li></ul></p>",
+    "name": "Solutions Consultant, SAP Specialist",
+    "type": "external",
+    "publication_date": "2021-03-01T23:11:23Z",
+    "short_name": "solutions-consultant-sap-specialist-38b5f1",
+    "model_type": "jobs",
+    "id": 5333845,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Mid Level",
+        "short_name": "mid"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/blackline/solutions-consultant-sap-specialist-38b5f1"
+    },
+    "company": {
+        "id": 11816,
+        "short_name": "blackline",
+        "name": "BlackLine"
+    }
+    },
+    {
+    "contents": "<p>Elastic is a search company built on a free and open heritage. Anyone can use Elastic products and solutions to get started quickly and frictionlessly. Elastic offers three solutions for enterprise search, observability, and security, built on one technology stack that can be deployed anywhere. From finding documents to monitoring infrastructure to hunting for threats, Elastic makes data usable in real time and at scale. Thousands of organizations worldwide, including Cisco, eBay, Goldman Sachs, Microsoft, The Mayo Clinic, NASA, The New York Times, Wikipedia, and Verizon, use Elastic to power mission-critical systems. Founded in 2012, Elastic is a distributed company with Elasticians around the globe and is publicly traded on the NYSE under the symbol ESTC. Learn more at <a href=\"https://www.elastic.co\">elastic.co</a>.<br><br><strong>About the role</strong><br> <br>The Cloud Networking team develops and maintains services supporting internal network communication within our public services. Our team is responsible for ensuring service discovery and connectivity between clients and our services-both on multi-cloud environments and on-premises via our Elastic Cloud Enterprise solution.<br> <br>We are looking for a software engineer to join our team and focus on the core features of our platform networking system and its components. Our globally distributed team has a broad scope and a balanced mix of levels, so there is plenty of room to be a mentor, to be mentored, to lead new features, and to advance both technically and professionally.<br> <br><strong>What you will be doing</strong><br> <ul><li>Build and maintain software supporting our cloud and on-prem service networking</li><li>Participate in code reviews for your team and other teams</li><li>Collaborate both within the team and with other Elastic engineering teams when working on cross-team efforts</li><li>Debug production technical issues inside a sophisticated stack involving virtualization, containers, microservices, etc.</li><li>Mentor new team members, both junior and senior</li><li>Improve engineering standards, tooling, and processes</li></ul> <br><strong>What you will bring along</strong><br> <ul><li>Deep understanding of network technologies; cloud platform network behavior, load balancing, and host container networking are part of our day-to-day work</li><li>Experience with a consistent pattern of delivering high-quality code, preferably in Go and/or JVM based languages-we work primarily in Go and Scala</li><li>Ability to communicate well with individuals and groups to accomplish a common set of goals</li></ul> Additional Information - We Take Care of Our People <br>As a distributed company, diversity drives our identity. Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.<br> <br>We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.<br> <ul><li>Competitive pay based on the work you do here and not your previous salary </li><li>Health coverage for you and your family in many locations</li><li>Ability to craft your calendar with flexible locations and schedules for many roles</li><li>Generous number of vacation days each year</li><li>Double your charitable giving - We match up to $1500 (or local currency equivalent)</li><li>Up to 40 hours each year to use toward volunteer projects you love</li><li>Embracing parenthood with minimum of 16 weeks of parental leave</li></ul> <br>Different people approach problems differently. We need that. Elastic is committed to diversity as well as inclusion. We are an equal opportunity employer and committed to the principles of affirmative action. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. If you require any reasonable accessibility support, please complete our <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfiV7br5dGLslC__KPuDNBii1x6cQnlm59L8b4293O2eFxbMA/viewform\">Candidate Accessibility Request Form</a>.<br></p>",
+    "name": "Cloud - Senior Software Engineer",
+    "type": "external",
+    "publication_date": "2021-04-22T00:50:20Z",
+    "short_name": "cloud-senior-software-engineer",
+    "model_type": "jobs",
+    "id": 5523273,
+    "locations": [
+        {
+        "name": "Flexible / Remote"
+        }
+    ],
+    "categories": [
+        {
+        "name": "Software Engineer"
+        }
+    ],
+    "levels": [
+        {
+        "name": "Senior Level",
+        "short_name": "senior"
+        }
+    ],
+    "tags": [],
+    "refs": {
+        "landing_page": "https://www.themuse.com/jobs/elastic/cloud-senior-software-engineer"
+    },
+    "company": {
+        "id": 12151,
+        "short_name": "elastic",
+        "name": "Elastic"
+    }
+    }
+]
