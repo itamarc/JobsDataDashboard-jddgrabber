@@ -1,3 +1,4 @@
 PyYAML 
 recursive-diff
-
+boto3
+retrying
