@@ -10,7 +10,7 @@ from retrying import retry
 class JDDLoggerSQSHandler(logging.Handler):
     """
     A Python logging handler which sends messages to Amazon SQS.
-    Code from https://github.com/zillow/python-sqs-logging-handler/
+    Code based on Zyllow's SQS-Logging-Handler https://github.com/zillow/python-sqs-logging-handler/
     """
 
     def __init__(self,
@@ -43,34 +43,13 @@ class JDDLoggerSQSHandler(logging.Handler):
         self._entrance_flag = False
 
 
-    # @retry(stop_max_attempt_number=7)
-    # def emit(self, record):
-    #     """
-    #     Emit log record by sending it over to AWS SQS queue.
-    #     """
-    #     if self._global_extra is not None:
-    #         record.__dict__.update(self._global_extra)
-
-    #     if not self._entrance_flag:
-    #         msg = self.format(record)
-
-    #         # When the handler is attached to root logger, the call on SQS
-    #         # below could generate more logging, and trigger nested emit
-    #         # calls. Use the flag to prevent stack overflow.
-    #         self._entrance_flag = True
-    #         try:
-    #             self.queue.send_message(MessageBody=msg)
-    #         finally:
-    #             self._entrance_flag = False
-
-
     @retry(stop_max_attempt_number=7)
     def logMessage(self, message, level="INFO", origin="jddgrabber"):
-        # "body": "{ \"time\": {\"$date\": \"2021-05-14T11:11:33.289-03:00\"}, \"origin\": \"LambdaAWSControlPanelWeb\",
-        #  \"message\": \"Testing the lambda function\", \"level\": \"INFO\" }",
+        # "body": 
+        # "{ \"time\": {\"$date\": \"2021-05-14T11:11:33.289-03:00\"}, \"origin\": \"LambdaAWSControlPanelWeb\",
+        #  \"message\": \"Testing the lambda function\", \"level\": \"INFO\" }"
         date = datetime.now(tz=timezone.utc).isoformat()
-        body = '"body": "{ "time": {"$date": "%(date)s"}, "origin": "JDDLoggerSQSHandler - %(origin)s", "message": "%(message)s", "level": "%(level)s" }",' % {"date": date, "origin": origin, "message": message, "level": level}
-        print(body)
+        body = '{ "time": {"$date": "%(date)s"}, "origin": "%(origin)s", "message": "%(message)s", "level": "%(level)s" }' % {"date": date, "origin": origin, "message": message, "level": level}
         if not self._entrance_flag:
             # When the handler is attached to root logger, the call on SQS
             # below could generate more logging, and trigger nested emit
@@ -78,9 +57,7 @@ class JDDLoggerSQSHandler(logging.Handler):
             self._entrance_flag = True
             try:
                 msgdedid = str(round(datetime.now().replace(tzinfo=timezone.utc).timestamp()))
-                print("MessageDeduplicationId=", msgdedid)
                 self.queue.send_message(MessageBody=body, MessageGroupId="jddlog", MessageDeduplicationId=msgdedid)
-                print("Message sent.")
             finally:
                 self._entrance_flag = False
 
@@ -92,4 +69,5 @@ if __name__ == '__main__':
     print(config)
     sqslogconf = config['sqslog']
     logh = JDDLoggerSQSHandler(sqslogconf['queue'], sqslogconf['aws_key_id'], sqslogconf['secret_key'], sqslogconf['aws_region'])
-    logh.logMessage("Execução do JDDLoggerHandler")
+    logh.logMessage("Execution of JDDLoggerSQSHandler for testing purposes")
+    print("Message sent.")

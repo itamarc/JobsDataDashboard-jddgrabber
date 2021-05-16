@@ -20,7 +20,12 @@ def remove_config_file(config_file):
 
 
 def get_default_config():
-    return {'job_queries': [{'job_name': 'Software Engineer'},
+    return {
+            'sqslog': {'queue': 'JDDLogQueue.fifo',
+                        'aws_key_id': '<your AWS SQS key id>',
+                        'secret_key': '<your AWS SQS secret key>',
+                        'aws_region': 'us-xxxx-N'},
+            'job_queries': [{'job_name': 'Software Engineer'},
                             {'job_name': 'Backend Developer'}],
             'job_services': [{'class_name': 'MuseDataGrabber',
                               'Authorization-Key': 'YourAPIKey',
