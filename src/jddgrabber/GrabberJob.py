@@ -1,8 +1,8 @@
 '''
 GrabberJob.py
 by Itamar Carvalho
-This file is part of the Job Seeker Project stored in:
-https://github.com/itamarc/JobSeekerProject/
+This file is part of the Jobs Data Dashboard Project stored in:
+https://github.com/users/itamarc/projects/1
 
 - This job will run periodically (initially can be once a day).
 - This job will connect to public job listings APIs (using REST or other method)
@@ -28,7 +28,6 @@ def runJob(config_file=r'config.yaml'):
         # Grab data
         grabber = DataGrabber.get_grabber(service["class_name"], service)
         grabber.fetch_data()
-        # Save data
 
 
 if __name__ == '__main__':

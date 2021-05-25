@@ -1,7 +1,7 @@
 import logging
 import logging.handlers
 from datetime import datetime, timezone
-import JDDConfig as cnf
+import jddgrabber.JDDConfig as cnf
 
 import boto3
 from retrying import retry

@@ -1,3 +1,6 @@
+from jddgrabber.DataStore import DataStore
+
+
 class DataGrabber:
     """
     Superclass to grabber classes and also implements the factory.
@@ -19,5 +22,16 @@ class DataGrabber:
     def fetch_data(self):
         """
         This method must be implemented in subclasses.
+
+        It should grab the data from the remote API, handling paging if needed,
+        and then save the data in the database using the 'save_data' function.
         """
         raise NotImplementedError
+
+
+    def save_data(self, data):
+        """
+        Save some grabbed data in the database.
+        """
+        ds = DataStore(self.params)
+        ds.insert_data(data)
