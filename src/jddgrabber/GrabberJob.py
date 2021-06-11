@@ -10,9 +10,11 @@ https://github.com/users/itamarc/projects/1
 for further processing.
 - After saving the data, this job will trigger the JobsAnalyzer.
 '''
+import logging
+import logging.handlers
 import jddgrabber.JDDConfig as cnf
 from jddgrabber.DataGrabber import DataGrabber
-
+from jddgrabber.JDDLoggerSQSHandler import JDDLoggerSQSHandler
 
 def runJob(config_file=r'config.yaml'):
     """
@@ -25,11 +27,34 @@ def runJob(config_file=r'config.yaml'):
     """
     # Load configuration and job listings APIs
     config = cnf.load_config(config_file)
+    logger = initLogging(config)
+    logger.debug("Logging started using config in file: " + config_file)
+    logger.info("Starting GrabberJob.")
     # For each API
     for service in config['job_services']:
         # Grab data
         grabber = DataGrabber.get_grabber(service["class_name"], service)
+        logger.info("Grabbing data with " + service["class_name"])
         grabber.fetch_data()
+
+
+def initLogging(config):
+    logger = logging.getLogger('jddgrabberlog')
+    handler = None
+    try:
+        sqslogconf = config['sqslog']
+        handler = JDDLoggerSQSHandler(
+            sqslogconf['queue'],
+            sqslogconf['aws_key_id'],
+            sqslogconf['secret_key'],
+            sqslogconf['aws_region'])
+    except:
+        handler = logging.FileHandler(config['logfile'])
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        handler.setFormatter(formatter)
+    logger.addHandler(handler)
+    logger.setLevel(config['loglevel'])
+    return logger
 
 
 if __name__ == '__main__':

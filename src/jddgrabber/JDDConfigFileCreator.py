@@ -25,6 +25,8 @@ def get_default_config():
                         'aws_key_id': '<your AWS SQS key id>',
                         'secret_key': '<your AWS SQS secret key>',
                         'aws_region': 'us-xxxx-N'},
+            'loglevel': 'DEBUG',
+            'logfile': 'jdd-log.txt', # file used only if SQS connection fails
             'job_queries': [{'job_name': 'Software Engineer'},
                             {'job_name': 'Backend Developer'}],
             'job_services': [{'class_name': 'MuseDataGrabber',

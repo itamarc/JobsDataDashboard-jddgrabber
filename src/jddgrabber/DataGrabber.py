@@ -1,3 +1,4 @@
+import logging
 from jddgrabber.DataStore import DataStore
 
 
@@ -5,9 +6,10 @@ class DataGrabber:
     """
     Superclass to grabber classes and also implements the factory.
     """
+
     def __init__(self, params):
         self.params = params
-
+        self.logger = logging.getLogger('jddgrabberlog')
 
     @staticmethod
     def get_grabber(grabber_classname, params):
@@ -18,7 +20,6 @@ class DataGrabber:
         cls = getattr(jddgrabber, grabber_classname)
         return cls(params)
 
-
     def fetch_data(self):
         """
         This method must be implemented in subclasses.
@@ -27,7 +28,6 @@ class DataGrabber:
         and then save the data in the database using the 'save_data' function.
         """
         raise NotImplementedError
-
 
     def save_data(self, data):
         """
