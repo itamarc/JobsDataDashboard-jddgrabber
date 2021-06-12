@@ -24,5 +24,5 @@ class DataStore:
         try:
             self.logger.debug("DataStore - saving data - # records: " + str(len(data)))
             self.get_collection().insert_many(data)
-        except:
-            self.logger.error("DataStore - error saving data: " + str(data))
+        except Exception as e:
+            self.logger.error("DataStore - error saving data: " + str(e))
