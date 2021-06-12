@@ -1,8 +1,5 @@
 import logging
 from pymongo import MongoClient
-from jddgrabber import JDDConfig as cnf
-import json
-import os
 
 
 class DataStore:
@@ -24,5 +21,5 @@ class DataStore:
         try:
             self.logger.debug("DataStore - saving data - # records: " + str(len(data)))
             self.get_collection().insert_many(data)
-        except Exception as e:
-            self.logger.error("DataStore - error saving data: " + str(e))
+        except Exception:
+            self.logger.exception("DataStore - error saving data: " + str(data))
