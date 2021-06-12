@@ -1,3 +1,4 @@
+import logging
 from pymongo import MongoClient
 from jddgrabber import JDDConfig as cnf
 import json
@@ -9,38 +10,19 @@ class DataStore:
 
     def __init__(self, params):
         self.params = params
+        self.logger = logging.getLogger('jddgrabberlog')
+        self.logger.debug("DataStore init.")
 
     def get_collection(self):
-        if (self.collection is None):
-            cluster = MongoClient(self.params["mongdb"]["connection"])
+        if (DataStore.collection is None):
+            cluster = MongoClient(self.params["mongodb"]["connection"])
             db = cluster["jobsdatadb"]
-            self.collection = db["jobsdata"]
-        return self.collection
+            DataStore.collection = db["jobsdata"]
+        return DataStore.collection
 
     def save_data(self, data):
-        self.get_collection().insert_many(data)
-
-    ###########################################################################
-    # The code below this point was written only for testing purposes
-    ###########################################################################
-
-    def insert_sample_data(self, collection):
-        config_dir = os.path.join(os.getcwd(), "conf")
-        with open(os.path.join(config_dir, r'sampledatamuse.json')) as file:
-            data = json.load(file)
-
-        self.save_data(data)
-
-    def testing_code(self):
-        # This config will be received, not read here again
-        config = cnf.load_config(r'config.yaml')
-
-        collection = self.get_collection(config)
-
-        # collection.delete_one({"_id": 1})
-
-        # results = collection.find({"name": { "$regex": ".*Engineer.*" }})
-        # for result in results:
-        #    print(result["name"])
-
-        self.insert_sample_data(collection)
+        try:
+            self.logger.debug("DataStore - saving data - # records: " + str(len(data)))
+            self.get_collection().insert_many(data)
+        except:
+            self.logger.error("DataStore - error saving data: " + str(data))

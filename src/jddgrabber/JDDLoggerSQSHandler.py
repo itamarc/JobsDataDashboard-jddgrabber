@@ -2,7 +2,6 @@ import logging
 import logging.handlers
 from datetime import datetime, timezone
 import jddgrabber.JDDConfig as cnf
-
 import boto3
 from retrying import retry
 
@@ -42,22 +41,28 @@ class JDDLoggerSQSHandler(logging.Handler):
         # root logger). We use this flag to guard against nested calling.
         self._entrance_flag = False
 
+    def emit(self, record: logging.LogRecord):
+        msg = self.format(record)
+        self.logMessage(msg, record.levelname)
 
     @retry(stop_max_attempt_number=7)
     def logMessage(self, message, level="INFO", origin="jddgrabber"):
-        # "body": 
+        # "body":
         # "{ \"time\": {\"$date\": \"2021-05-14T11:11:33.289-03:00\"}, \"origin\": \"LambdaAWSControlPanelWeb\",
         #  \"message\": \"Testing the lambda function\", \"level\": \"INFO\" }"
         date = datetime.now(tz=timezone.utc).isoformat()
-        body = '{ "time": {"$date": "%(date)s"}, "origin": "%(origin)s", "message": "%(message)s", "level": "%(level)s" }' % {"date": date, "origin": origin, "message": message, "level": level}
+        body = '{ "time": {"$date": "%(date)s"}, "origin": "%(origin)s", "message": "%(message)s", "level": "%(level)s" }' % {
+            "date": date, "origin": origin, "message": message, "level": level}
         if not self._entrance_flag:
             # When the handler is attached to root logger, the call on SQS
             # below could generate more logging, and trigger nested emit
             # calls. Use the flag to prevent stack overflow.
             self._entrance_flag = True
             try:
-                msgdedid = str(round(datetime.now().replace(tzinfo=timezone.utc).timestamp()))
-                self.queue.send_message(MessageBody=body, MessageGroupId="jddlog", MessageDeduplicationId=msgdedid)
+                msgdedid = str(round(datetime.now().replace(
+                    tzinfo=timezone.utc).timestamp()*100000))
+                self.queue.send_message(
+                    MessageBody=body, MessageGroupId="jddlog", MessageDeduplicationId=msgdedid)
             finally:
                 self._entrance_flag = False
 
@@ -68,6 +73,7 @@ if __name__ == '__main__':
     config = cnf.load_config(config_file)
     print(config)
     sqslogconf = config['sqslog']
-    logh = JDDLoggerSQSHandler(sqslogconf['queue'], sqslogconf['aws_key_id'], sqslogconf['secret_key'], sqslogconf['aws_region'])
-    logh.logMessage("Execution of JDDLoggerSQSHandler for testing purposes")
+    logh = JDDLoggerSQSHandler(
+        sqslogconf['queue'], sqslogconf['aws_key_id'], sqslogconf['secret_key'], sqslogconf['aws_region'])
+    logh.logMessage("Execution of JDDLoggerSQSHandler for testing purposes", "DEBUG")
     print("Message sent.")

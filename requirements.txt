@@ -3,3 +3,4 @@ recursive-diff
 boto3
 retrying
 pymongo
+dnspython

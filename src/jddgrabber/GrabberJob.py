@@ -11,12 +11,11 @@ for further processing.
 - After saving the data, this job will trigger the JobsAnalyzer.
 '''
 import logging
-import logging.handlers
 import jddgrabber.JDDConfig as cnf
 from jddgrabber.DataGrabber import DataGrabber
 from jddgrabber.JDDLoggerSQSHandler import JDDLoggerSQSHandler
 
-def runJob(config_file=r'config.yaml'):
+def runJob(config_file):
     """
     Run the job, loading the config file received as parameter
     (default: config.yaml).
@@ -33,7 +32,7 @@ def runJob(config_file=r'config.yaml'):
     # For each API
     for service in config['job_services']:
         # Grab data
-        grabber = DataGrabber.get_grabber(service["class_name"], service)
+        grabber = DataGrabber.get_grabber(service["class_name"], service, config)
         logger.info("Grabbing data with " + service["class_name"])
         grabber.fetch_data()
 
@@ -52,10 +51,11 @@ def initLogging(config):
         handler = logging.FileHandler(config['logfile'])
         formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         handler.setFormatter(formatter)
+    handler.setLevel(config['loglevel'])
     logger.addHandler(handler)
     logger.setLevel(config['loglevel'])
     return logger
 
 
 if __name__ == '__main__':
-    runJob(r'config-sample.yaml')
+    runJob(r'config.yaml')

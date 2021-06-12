@@ -5,17 +5,14 @@ sqslog:
   aws_region: us-xxxx-N
 loglevel: DEBUG
 logfile: jdd-log.txt
-job_queries:
-- job_name: Software Engineer
-- job_name: Backend Developer
 job_services:
-- Authorization-Key: YourAPIKey
+- name: The Muse
+  Authorization-Key: YourAPIKey
   User-Agent: your@email.address
   class_name: MuseDataGrabber
   method: GET
-  name: The Muse
   params:
-  - category:
+    category:
     - Software Engineer
     - Data Science
     - IT
@@ -25,4 +22,4 @@ job_services:
     location: United States
   url: https://www.themuse.com/api/public/jobs
 mongodb:
-- connection: mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority
+  connection: mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority
