@@ -11,9 +11,11 @@ for further processing.
 - After saving the data, this job will trigger the JobsAnalyzer.
 '''
 import logging
+import time
 import jddgrabber.JDDConfig as cnf
 from jddgrabber.DataGrabber import DataGrabber
 from jddgrabber.JDDLoggerSQSHandler import JDDLoggerSQSHandler
+
 
 def runJob(config_file):
     """
@@ -26,15 +28,20 @@ def runJob(config_file):
     """
     # Load configuration and job listings APIs
     config = cnf.load_config(config_file)
+    config['jdd_run_id'] = time.strftime("%Y%m%d%H%M%S")
     logger = initLogging(config)
     logger.debug("Logging started using config in file: " + config_file)
-    logger.info("Starting GrabberJob.")
+    logger.info("Starting GrabberJob - jdd_run_id:" +
+                str(config['jdd_run_id']))
+    print("Starting GrabberJob - jdd_run_id:" + str(config['jdd_run_id']))
     # For each API
     for service in config['job_services']:
         # Grab data
-        grabber = DataGrabber.get_grabber(service["class_name"], service, config)
+        grabber = DataGrabber.get_grabber(
+            service["class_name"], service, config)
         logger.info("Grabbing data with " + service["class_name"])
         grabber.fetch_data()
+    logger.info("GrabberJob end - jdd_run_id:" + str(config['jdd_run_id']))
 
 
 def initLogging(config):
@@ -49,7 +56,8 @@ def initLogging(config):
             sqslogconf['aws_region'])
     except:
         handler = logging.FileHandler(config['logfile'])
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        formatter = logging.Formatter(
+            '%(asctime)s - %(name)s - %(levelname)s - %(message)s')
         handler.setFormatter(formatter)
     handler.setLevel(config['loglevel'])
     logger.addHandler(handler)

@@ -6,6 +6,7 @@ class DataGrabber:
     """
     Superclass to grabber classes and also implements the factory.
     """
+    datastore = None
 
     def __init__(self, params, config):
         self.params = params
@@ -42,15 +43,26 @@ class DataGrabber:
         It should grab the data from the remote API, handling paging if needed,
         and then save the data in the database using the 'save_data' function.
         """
+        page = 0
         next = 0
         while (next >= 0):
             page = next
             (next, data) = self.fetch_data_page(page)
-            self.save_data(data)
+            if not data is None:
+                self.put_jdd_run_id(data)
+                self.save_data(data)
+            else:
+                self.logger.warning("Empty response received on page "+str(page))
+        self.logger.info(self.params['name']+" - pages grabbed: "+str(page))
+
+    def put_jdd_run_id(self, data):
+        for d in data:
+            d['jdd_run_id'] = self.config['jdd_run_id']
 
     def save_data(self, data):
         """
         Save some grabbed data in the database.
         """
-        ds = DataStore(self.config)
-        ds.save_data(data)
+        if DataGrabber.datastore is None:
+            DataGrabber.datastore = DataStore(self.config)
+        DataGrabber.datastore.save_data(data)

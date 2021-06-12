@@ -27,18 +27,45 @@ def get_default_config():
                         'aws_region': 'us-xxxx-N'},
             'loglevel': 'DEBUG',
             'logfile': 'jdd-log.txt', # file used only if SQS connection fails
-            'job_services': [{'class_name': 'MuseDataGrabber',
-                              'Authorization-Key': 'YourAPIKey',
-                              'User-Agent': 'your@email.address',
-                              'method': 'GET',
-                              'name': 'The Muse',
-                              'url': 'https://www.themuse.com/api/public/jobs',
-                              'params': [{'category': ['Software Engineer', 'Data Science', 'IT'],
-                                          'level': ['Senior Level', 'Mid Level'],
-                                          'location': 'United States'}]}],
-            'mongodb': [{'connection': 'mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority'}]
-            }
-
+            'job_services': [
+                {
+                'name': 'The Muse',
+                'class_name': 'MuseDataGrabber',
+                'User-Agent': 'your@email.address',
+                'method': 'GET',
+                'url': 'https://www.themuse.com/api/public/jobs',
+                'api_key': '<get your key by registering your app in themuse.com>',
+                'category': ['Data Science', 'IT', 'Software Engineer'],
+                'level': ['Mid Level', 'Senior Level'],
+                'location': [
+                    'Amsterdam, Netherlands',
+                    'Rotterdam, Netherlands',
+                    'The Hague, Netherlands',
+                    'Lisbon, Portugal',
+                    'Porto, Portugal',
+                    'Barcelona, Spain',
+                    'Madrid, Spain',
+                    'Murcia, Spain',
+                    'Seville, Spain',
+                    'Valencia, Spain',
+                    'Paris, France',
+                    'London, United Kingdom',
+                    'Dublin, Ireland',
+                    'Rome, Italy',
+                    'Milan, Italy',
+                    'Berkeley, CA',
+                    'Mountain View, CA',
+                    'San Francisco, CA',
+                    'San Jose, CA',
+                    'Raleigh, NC',
+                    'Redmond, WA',
+                    'Seattle, WA',
+                    'New York, NY'
+                    ]
+                }
+            ],
+            'mongodb': {'connection': 'mongodb+srv://<user>:<password>@cluster0.abcd.mongodb.net/<default_database>?retryWrites=true&w=majority'}
+        }
 
 if __name__ == '__main__':
     config_file = r'config-sample.yaml'

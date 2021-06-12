@@ -4,3 +4,4 @@ boto3
 retrying
 pymongo
 dnspython
+requests
