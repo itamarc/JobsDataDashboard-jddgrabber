@@ -13,7 +13,7 @@ class DataGrabber:
         self.config = config
         self.logger = logging.getLogger('jddgrabberlog')
         self.logger.debug("DataGrabber init: '" + params['name'] +
-            "' using class: " + params['class_name'])
+                          "' using class: " + params['class_name'])
 
     @staticmethod
     def get_grabber(grabber_classname, params, config):
@@ -49,15 +49,17 @@ class DataGrabber:
             page = next
             (next, data) = self.fetch_data_page(page)
             if not data is None:
-                self.put_jdd_run_id(data)
+                self.put_run_id_data(data)
                 self.save_data(data)
             else:
-                self.logger.warning("Empty response received on page "+str(page))
+                self.logger.warning(
+                    "Empty response received on page "+str(page))
         self.logger.info(self.params['name']+" - pages grabbed: "+str(page))
 
-    def put_jdd_run_id(self, data):
+    def put_run_id_data(self, data):
         for d in data:
             d['jdd_run_id'] = self.config['jdd_run_id']
+            d['origin_id'] = self.get_origin_id()
 
     def save_data(self, data):
         """
@@ -66,3 +68,13 @@ class DataGrabber:
         if DataGrabber.datastore is None:
             DataGrabber.datastore = DataStore(self.config)
         DataGrabber.datastore.save_data(data)
+
+    def get_origin_id(self):
+        """
+        This method must be implemented in subclasses.
+
+        It should get the origin id for each specific grabber.
+
+        This method must return a string that identifies the origin of the data.
+        """
+        raise NotImplementedError

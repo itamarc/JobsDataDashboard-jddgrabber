@@ -61,3 +61,6 @@ class MuseDataGrabber(DataGrabber):
         for loc in self.params['location']:
             fullurl += "&location=" + loc
         return fullurl
+
+    def get_origin_id(self):
+        return "themuse"
